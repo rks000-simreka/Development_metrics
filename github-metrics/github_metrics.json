@@ -1,0 +1,781 @@
+{
+  "metadata": {
+    "organization": "simreka",
+    "start_date": "2025-06-12T17:01:51.881188",
+    "end_date": "2025-09-04T17:01:51.881188",
+    "weeks_analyzed": 12,
+    "generated_at": "2025-09-04T17:05:35.221792"
+  },
+  "metrics": {
+    "j000-simreka": {
+      "commits_per_week": {
+        "2025-29": 5,
+        "2025-25": 12,
+        "2025-24": 18,
+        "2025-32": 4,
+        "2025-30": 4,
+        "2025-27": 2,
+        "2025-35": 4,
+        "2025-34": 6,
+        "2025-33": 4,
+        "2025-28": 16
+      },
+      "total_commits": 75,
+      "avg_commits_per_week": 6.25,
+      "lines_added": 17195,
+      "lines_deleted": 2843,
+      "net_lines": 14352,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "pdf-exploration",
+        "demo-frontend",
+        "base-backend",
+        "process-simulation-service",
+        "base-frontend",
+        "ml_service_calc_demo",
+        "nile-backend",
+        "nile-frontend",
+        "demo-backend"
+      ]
+    },
+    "rk000-simreka": {
+      "commits_per_week": {
+        "2025-30": 4,
+        "2025-28": 4,
+        "2025-27": 1,
+        "2025-26": 1,
+        "2025-25": 2,
+        "2025-24": 8
+      },
+      "total_commits": 20,
+      "avg_commits_per_week": 1.6666666666666667,
+      "lines_added": 1358,
+      "lines_deleted": 623,
+      "net_lines": 735,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "process-simulation-service"
+      ]
+    },
+    "mk000-simreka": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "alzyod": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "d000-simreka": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "a000-simrek": {
+      "commits_per_week": {
+        "2025-35": 1
+      },
+      "total_commits": 1,
+      "avg_commits_per_week": 0.08333333333333333,
+      "lines_added": 1069,
+      "lines_deleted": 0,
+      "net_lines": 1069,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "QA_Automation"
+      ]
+    },
+    "patelsimreka": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "rr000-simreka": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "vm000-simreka": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "pk000-simreka": {
+      "commits_per_week": {
+        "2025-31": 3,
+        "2025-30": 12,
+        "2025-29": 2,
+        "2025-34": 10,
+        "2025-33": 5
+      },
+      "total_commits": 32,
+      "avg_commits_per_week": 2.6666666666666665,
+      "lines_added": 11415,
+      "lines_deleted": 10131,
+      "net_lines": 1284,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "demo-backend",
+        "base-backend",
+        "base-frontend",
+        "demo-frontend"
+      ]
+    },
+    "kp000-simreka": {
+      "commits_per_week": {
+        "2025-34": 2,
+        "2025-33": 73,
+        "2025-32": 14,
+        "2025-31": 8,
+        "2025-30": 47,
+        "2025-29": 2,
+        "2025-28": 10,
+        "2025-27": 30,
+        "2025-25": 1,
+        "2025-24": 9,
+        "2025-23": 5
+      },
+      "total_commits": 201,
+      "avg_commits_per_week": 16.75,
+      "lines_added": 393977,
+      "lines_deleted": 353042,
+      "net_lines": 40935,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "Tigris-BE",
+        "Project-Bheeshma"
+      ]
+    },
+    "aj000-simreka": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "kg000-simreka": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "km000-simreka": {
+      "commits_per_week": {
+        "2025-31": 18,
+        "2025-30": 16,
+        "2025-29": 11,
+        "2025-28": 4,
+        "2025-27": 28,
+        "2025-26": 30,
+        "2025-25": 44,
+        "2025-24": 34
+      },
+      "total_commits": 185,
+      "avg_commits_per_week": 15.416666666666666,
+      "lines_added": 4148432,
+      "lines_deleted": 286124,
+      "net_lines": 3862308,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "Tigris-FE"
+      ]
+    },
+    "pr000-simreka": {
+      "commits_per_week": {
+        "2025-33": 5,
+        "2025-32": 2,
+        "2025-31": 12,
+        "2025-30": 2,
+        "2025-29": 14,
+        "2025-28": 6,
+        "2025-27": 12,
+        "2025-26": 11,
+        "2025-25": 8,
+        "2025-24": 7,
+        "2025-23": 1
+      },
+      "total_commits": 80,
+      "avg_commits_per_week": 6.666666666666667,
+      "lines_added": 85826,
+      "lines_deleted": 5172,
+      "net_lines": 80654,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "Tigris-BE",
+        "Project-Bheeshma"
+      ]
+    },
+    "rks000-simreka": {
+      "commits_per_week": {
+        "2025-29": 1
+      },
+      "total_commits": 1,
+      "avg_commits_per_week": 0.08333333333333333,
+      "lines_added": 3309,
+      "lines_deleted": 0,
+      "net_lines": 3309,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "work_location_analyser"
+      ]
+    },
+    "jl000-simreka": {
+      "commits_per_week": {
+        "2025-24": 3
+      },
+      "total_commits": 3,
+      "avg_commits_per_week": 0.25,
+      "lines_added": 62869,
+      "lines_deleted": 60324,
+      "net_lines": 2545,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "Project-Bheeshma"
+      ]
+    },
+    "ak000-simreka": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "bala000-simreka": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "akash000-simreka": {
+      "commits_per_week": {
+        "2025-35": 6,
+        "2025-34": 6,
+        "2025-30": 3,
+        "2025-29": 16,
+        "2025-28": 17,
+        "2025-27": 15,
+        "2025-26": 3,
+        "2025-25": 7,
+        "2025-24": 27,
+        "2025-23": 5,
+        "2025-32": 1,
+        "2025-31": 2
+      },
+      "total_commits": 108,
+      "avg_commits_per_week": 9.0,
+      "lines_added": 46075,
+      "lines_deleted": 32769,
+      "net_lines": 13306,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "base-backend",
+        "base-frontend"
+      ]
+    },
+    "pa000-simreka": {
+      "commits_per_week": {
+        "2025-35": 26,
+        "2025-33": 12,
+        "2025-31": 31,
+        "2025-30": 35,
+        "2025-29": 40,
+        "2025-28": 54,
+        "2025-27": 36,
+        "2025-25": 38,
+        "2025-34": 21,
+        "2025-26": 47,
+        "2025-24": 65,
+        "2025-23": 4
+      },
+      "total_commits": 409,
+      "avg_commits_per_week": 34.083333333333336,
+      "lines_added": 473437,
+      "lines_deleted": 73311,
+      "net_lines": 400126,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "demo-frontend",
+        "base-backend",
+        "git-kt",
+        "base-frontend",
+        "nile-backend",
+        "nile-frontend",
+        "demo-backend"
+      ]
+    },
+    "sg000-simreka": {
+      "commits_per_week": {
+        "2025-33": 6,
+        "2025-31": 10,
+        "2025-29": 2,
+        "2025-28": 20,
+        "2025-27": 1,
+        "2025-26": 6,
+        "2025-25": 13,
+        "2025-24": 11,
+        "2025-23": 4
+      },
+      "total_commits": 73,
+      "avg_commits_per_week": 6.083333333333333,
+      "lines_added": 84515,
+      "lines_deleted": 69893,
+      "net_lines": 14622,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "Project-Bheeshma"
+      ]
+    },
+    "am000-simreka": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "dk000-simreka": {
+      "commits_per_week": {
+        "2025-28": 11,
+        "2025-26": 10,
+        "2025-25": 8,
+        "2025-24": 21,
+        "2025-33": 2,
+        "2025-35": 1,
+        "2025-31": 5,
+        "2025-29": 4
+      },
+      "total_commits": 62,
+      "avg_commits_per_week": 5.166666666666667,
+      "lines_added": 878,
+      "lines_deleted": 80,
+      "net_lines": 798,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "demo-frontend",
+        "Automation-Mississippi",
+        "base-backend",
+        "process-simulation-service",
+        "Tigris-FE",
+        "Tigris-BE",
+        "base-frontend",
+        "new_stack_calc",
+        "nile-backend",
+        "nile-frontend"
+      ]
+    },
+    "sjg000-simreka": {
+      "commits_per_week": {
+        "2025-27": 8,
+        "2025-34": 1,
+        "2025-33": 12,
+        "2025-31": 10,
+        "2025-30": 8,
+        "2025-29": 15,
+        "2025-28": 15,
+        "2025-26": 9,
+        "2025-25": 22,
+        "2025-24": 24,
+        "2025-23": 4,
+        "2025-32": 1
+      },
+      "total_commits": 129,
+      "avg_commits_per_week": 10.75,
+      "lines_added": 46592,
+      "lines_deleted": 35925,
+      "net_lines": 10667,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "demo-frontend",
+        "base-backend",
+        "base-frontend",
+        "nile-frontend",
+        "demo-backend"
+      ]
+    },
+    "sp-000-sim": {
+      "commits_per_week": {
+        "2025-29": 3,
+        "2025-28": 4,
+        "2025-27": 6,
+        "2025-25": 1
+      },
+      "total_commits": 14,
+      "avg_commits_per_week": 1.1666666666666667,
+      "lines_added": 71474,
+      "lines_deleted": 65997,
+      "net_lines": 5477,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "Project-Bheeshma"
+      ]
+    },
+    "Mmadan-2025": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "yo-000-sim": {
+      "commits_per_week": {
+        "2025-35": 2,
+        "2025-34": 6,
+        "2025-33": 3,
+        "2025-29": 1,
+        "2025-28": 12,
+        "2025-27": 5,
+        "2025-26": 11,
+        "2025-24": 2
+      },
+      "total_commits": 42,
+      "avg_commits_per_week": 3.5,
+      "lines_added": 37923,
+      "lines_deleted": 29193,
+      "net_lines": 8730,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "base-backend",
+        "base-frontend"
+      ]
+    },
+    "sen-000-sim": {
+      "commits_per_week": {
+        "2025-35": 12,
+        "2025-31": 4,
+        "2025-30": 7,
+        "2025-29": 12,
+        "2025-28": 9,
+        "2025-27": 21,
+        "2025-26": 10,
+        "2025-25": 5,
+        "2025-24": 7,
+        "2025-23": 3
+      },
+      "total_commits": 90,
+      "avg_commits_per_week": 7.5,
+      "lines_added": 54649,
+      "lines_deleted": 44910,
+      "net_lines": 9739,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "base-backend",
+        "base-frontend"
+      ]
+    },
+    "dee-000-sim": {
+      "commits_per_week": {
+        "2025-35": 5,
+        "2025-31": 6,
+        "2025-30": 4,
+        "2025-29": 11,
+        "2025-28": 4,
+        "2025-26": 5,
+        "2025-25": 10,
+        "2025-24": 14,
+        "2025-23": 2,
+        "2025-27": 9,
+        "2025-33": 10,
+        "2025-32": 4,
+        "2025-34": 1
+      },
+      "total_commits": 85,
+      "avg_commits_per_week": 7.083333333333333,
+      "lines_added": 23233,
+      "lines_deleted": 3348,
+      "net_lines": 19885,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "pdf-exploration",
+        "demo-frontend",
+        "base-backend",
+        "base-frontend",
+        "nile-backend",
+        "nile-frontend",
+        "demo-backend"
+      ]
+    },
+    "Ad-000-sim": {
+      "commits_per_week": {
+        "2025-35": 5,
+        "2025-34": 1,
+        "2025-31": 1,
+        "2025-25": 3,
+        "2025-26": 7
+      },
+      "total_commits": 17,
+      "avg_commits_per_week": 1.4166666666666667,
+      "lines_added": 41066,
+      "lines_deleted": 15861,
+      "net_lines": 25205,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "Automation-Mississippi",
+        "git-kt"
+      ]
+    },
+    "Av-000-Sim": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "DS-000-sim": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "Vi-000-sim": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "nilesa-simreka": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    },
+    "shiv-000-sim": {
+      "commits_per_week": {
+        "2025-35": 12,
+        "2025-34": 3
+      },
+      "total_commits": 15,
+      "avg_commits_per_week": 1.25,
+      "lines_added": 945,
+      "lines_deleted": 157,
+      "net_lines": 788,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": [
+        "base-backend",
+        "base-frontend"
+      ]
+    },
+    "AB-000-sim": {
+      "commits_per_week": {},
+      "total_commits": 0,
+      "avg_commits_per_week": 0.0,
+      "lines_added": 0,
+      "lines_deleted": 0,
+      "net_lines": 0,
+      "prs_created": 0,
+      "prs_merged": 0,
+      "avg_pr_turnaround_hours": 0.0,
+      "review_comments": 0,
+      "prs_reviewed": 0,
+      "active_repos": []
+    }
+  }
+}

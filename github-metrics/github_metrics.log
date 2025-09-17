@@ -1,0 +1,1366 @@
+2025-09-05 14:29:10,506 - __main__ - INFO - Token validated. User: rks000-simreka
+2025-09-05 14:29:10,508 - __main__ - INFO - Initialized collector for org: simreka
+2025-09-05 14:29:10,508 - __main__ - INFO - Append mode: False
+2025-09-05 14:29:10,508 - __main__ - INFO - Period: 2025-06-13 to 2025-09-05
+2025-09-05 14:29:10,510 - __main__ - INFO - Starting metrics collection from 2025-06-13 to 2025-09-05
+2025-09-05 14:29:10,511 - __main__ - INFO - ============================================================
+2025-09-05 14:29:11,225 - __main__ - INFO - Found 37 organization members
+2025-09-05 14:29:18,310 - __main__ - INFO - Found 26 active repositories
+2025-09-05 14:29:18,316 - __main__ - INFO - Processing 26 repositories with 5 workers
+2025-09-05 14:29:18,316 - __main__ - INFO - Processing repository: thermo_package
+2025-09-05 14:29:18,316 - __main__ - INFO - Processing repository: base-frontend
+2025-09-05 14:29:18,322 - __main__ - INFO - Processing repository: nile-calc-new
+2025-09-05 14:29:18,329 - __main__ - INFO - Processing repository: nile-backend
+2025-09-05 14:29:18,332 - __main__ - INFO - Processing repository: nile-frontend
+2025-09-05 14:29:18,815 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:18,815 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:19,042 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:19,069 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:19,073 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:19,622 - __main__ - INFO - Processing repository: base-backend
+2025-09-05 14:29:19,623 - __main__ - INFO - [1/26] Completed: nile-frontend
+2025-09-05 14:29:19,796 - __main__ - INFO - Processing repository: Mississippi-Web
+2025-09-05 14:29:19,796 - __main__ - INFO - [2/26] Completed: nile-backend
+2025-09-05 14:29:19,922 - __main__ - INFO - Processing repository: caseStudyPdfGenerator
+2025-09-05 14:29:19,922 - __main__ - INFO - [3/26] Completed: thermo_package
+2025-09-05 14:29:20,076 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:20,205 - __main__ - INFO - Processing repository: Automation-Mississippi
+2025-09-05 14:29:20,205 - __main__ - INFO - [4/26] Completed: nile-calc-new
+2025-09-05 14:29:20,221 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:20,386 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:20,690 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:21,006 - __main__ - INFO - Processing repository: pdf-exploration
+2025-09-05 14:29:21,006 - __main__ - INFO - [5/26] Completed: caseStudyPdfGenerator
+2025-09-05 14:29:21,185 - __main__ - INFO - Processing repository: new_stack_calc
+2025-09-05 14:29:21,185 - __main__ - INFO - [6/26] Completed: base-backend
+2025-09-05 14:29:21,298 - __main__ - INFO - Processing repository: Tigris-FE
+2025-09-05 14:29:21,298 - __main__ - INFO - [7/26] Completed: base-frontend
+2025-09-05 14:29:21,302 - __main__ - INFO - Processing repository: demo-frontend
+2025-09-05 14:29:21,304 - __main__ - INFO - [8/26] Completed: Automation-Mississippi
+2025-09-05 14:29:21,680 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:21,693 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:21,736 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:21,762 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:22,229 - __main__ - INFO - Processing repository: QA_Automation
+2025-09-05 14:29:22,229 - __main__ - INFO - [9/26] Completed: pdf-exploration
+2025-09-05 14:29:22,386 - __main__ - INFO - Processing repository: demo-backend
+2025-09-05 14:29:22,386 - __main__ - INFO - [10/26] Completed: Tigris-FE
+2025-09-05 14:29:22,587 - __main__ - INFO - Processing repository: process-simulation-service
+2025-09-05 14:29:22,587 - __main__ - INFO - [11/26] Completed: Mississippi-Web
+2025-09-05 14:29:22,600 - __main__ - INFO - Processing repository: ml_service_calc_demo
+2025-09-05 14:29:22,600 - __main__ - INFO - [12/26] Completed: demo-frontend
+2025-09-05 14:29:22,715 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:22,873 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:23,102 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:23,130 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:23,275 - __main__ - INFO - Processing repository: Project-Bheeshma
+2025-09-05 14:29:23,275 - __main__ - INFO - [13/26] Completed: QA_Automation
+2025-09-05 14:29:23,369 - __main__ - INFO - Processing repository: Tigris-BE
+2025-09-05 14:29:23,369 - __main__ - INFO - [14/26] Completed: new_stack_calc
+2025-09-05 14:29:23,548 - __main__ - INFO - Processing repository: Mississippi-calc
+2025-09-05 14:29:23,548 - __main__ - INFO - [15/26] Completed: demo-backend
+2025-09-05 14:29:23,636 - __main__ - INFO - Processing repository: work_location_analyser
+2025-09-05 14:29:23,636 - __main__ - INFO - [16/26] Completed: process-simulation-service
+2025-09-05 14:29:23,677 - __main__ - INFO - Processing repository: Nile-calc
+2025-09-05 14:29:23,677 - __main__ - INFO - [17/26] Completed: ml_service_calc_demo
+2025-09-05 14:29:23,741 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:24,045 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:24,099 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:24,170 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:24,649 - __main__ - INFO - Processing repository: nile-calc-encrypt
+2025-09-05 14:29:24,649 - __main__ - INFO - [18/26] Completed: work_location_analyser
+2025-09-05 14:29:25,088 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:25,141 - __main__ - INFO - Processing repository: apollo-ml
+2025-09-05 14:29:25,141 - __main__ - INFO - [19/26] Completed: Mississippi-calc
+2025-09-05 14:29:25,206 - __main__ - INFO - Processing repository: git-kt
+2025-09-05 14:29:25,206 - __main__ - INFO - [20/26] Completed: Nile-calc
+2025-09-05 14:29:25,609 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:25,612 - __main__ - INFO - Processing repository: Indus-web
+2025-09-05 14:29:25,616 - __main__ - INFO - [21/26] Completed: nile-calc-encrypt
+2025-09-05 14:29:25,673 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:25,997 - __main__ - INFO - [22/26] Completed: Project-Bheeshma
+2025-09-05 14:29:26,113 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:26,205 - __main__ - INFO - [23/26] Completed: apollo-ml
+2025-09-05 14:29:26,293 - __main__ - INFO - [24/26] Completed: git-kt
+2025-09-05 14:29:26,885 - __main__ - INFO - [25/26] Completed: Indus-web
+2025-09-05 14:29:44,417 - __main__ - WARNING - Attempt 1 failed: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /graphql (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001BFCA67E570>, 'Connection to api.github.com timed out. (connect timeout=30)')). Retrying in 1s...
+2025-09-05 14:29:45,998 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T08:59:09.598242+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T08:59:09.598242+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:29:46,855 - __main__ - INFO - [26/26] Completed: Tigris-BE
+2025-09-05 14:29:46,857 - __main__ - INFO - ============================================================
+2025-09-05 14:29:46,859 - __main__ - INFO - Metrics collection complete!
+2025-09-05 14:35:51,594 - __main__ - INFO - Token validated. User: rks000-simreka
+2025-09-05 14:35:51,600 - __main__ - INFO - Initialized collector for org: simreka
+2025-09-05 14:35:51,600 - __main__ - INFO - Append mode: False
+2025-09-05 14:35:51,602 - __main__ - INFO - Period: 2025-06-13 to 2025-09-05
+2025-09-05 14:35:51,604 - __main__ - INFO - Starting metrics collection from 2025-06-13 to 2025-09-05
+2025-09-05 14:35:51,604 - __main__ - INFO - ============================================================
+2025-09-05 14:35:51,606 - __main__ - INFO - Found 37 organization members
+2025-09-05 14:35:51,611 - __main__ - INFO - Found 26 active repositories
+2025-09-05 14:35:51,613 - __main__ - INFO - Processing 26 repositories with 5 workers
+2025-09-05 14:35:51,616 - __main__ - INFO - Processing repository: thermo_package
+2025-09-05 14:35:51,620 - __main__ - INFO - Processing repository: base-frontend
+2025-09-05 14:35:51,621 - __main__ - INFO - Processing repository: nile-calc-new
+2025-09-05 14:35:51,625 - __main__ - INFO - Processing repository: nile-backend
+2025-09-05 14:35:51,633 - __main__ - INFO - Processing repository: nile-frontend
+2025-09-05 14:35:52,079 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:52,096 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:52,103 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:52,103 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:52,105 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:52,830 - __main__ - INFO - Processing repository: base-backend
+2025-09-05 14:35:52,830 - __main__ - INFO - [1/26] Completed: nile-backend
+2025-09-05 14:35:52,953 - __main__ - INFO - Processing repository: Mississippi-Web
+2025-09-05 14:35:52,953 - __main__ - INFO - [2/26] Completed: nile-frontend
+2025-09-05 14:35:53,128 - __main__ - INFO - Processing repository: caseStudyPdfGenerator
+2025-09-05 14:35:53,128 - __main__ - INFO - [3/26] Completed: nile-calc-new
+2025-09-05 14:35:53,249 - __main__ - INFO - Processing repository: Automation-Mississippi
+2025-09-05 14:35:53,249 - __main__ - INFO - [4/26] Completed: thermo_package
+2025-09-05 14:35:53,268 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:53,391 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:53,591 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:53,721 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:54,167 - __main__ - INFO - Processing repository: pdf-exploration
+2025-09-05 14:35:54,167 - __main__ - INFO - [5/26] Completed: caseStudyPdfGenerator
+2025-09-05 14:35:54,248 - __main__ - INFO - Processing repository: new_stack_calc
+2025-09-05 14:35:54,249 - __main__ - INFO - [6/26] Completed: Automation-Mississippi
+2025-09-05 14:35:54,294 - __main__ - INFO - Processing repository: Tigris-FE
+2025-09-05 14:35:54,296 - __main__ - INFO - [7/26] Completed: base-backend
+2025-09-05 14:35:54,322 - __main__ - INFO - Processing repository: demo-frontend
+2025-09-05 14:35:54,322 - __main__ - INFO - [8/26] Completed: base-frontend
+2025-09-05 14:35:54,640 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:54,741 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:54,751 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:54,763 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:55,378 - __main__ - INFO - Processing repository: QA_Automation
+2025-09-05 14:35:55,378 - __main__ - INFO - [9/26] Completed: pdf-exploration
+2025-09-05 14:35:55,382 - __main__ - INFO - Processing repository: demo-backend
+2025-09-05 14:35:55,382 - __main__ - INFO - [10/26] Completed: Tigris-FE
+2025-09-05 14:35:55,481 - __main__ - INFO - Processing repository: process-simulation-service
+2025-09-05 14:35:55,481 - __main__ - INFO - [11/26] Completed: Mississippi-Web
+2025-09-05 14:35:55,543 - __main__ - INFO - Processing repository: ml_service_calc_demo
+2025-09-05 14:35:55,543 - __main__ - INFO - [12/26] Completed: demo-frontend
+2025-09-05 14:35:55,819 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:55,846 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:55,947 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:56,031 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:56,415 - __main__ - INFO - Processing repository: Project-Bheeshma
+2025-09-05 14:35:56,415 - __main__ - INFO - [13/26] Completed: QA_Automation
+2025-09-05 14:35:56,451 - __main__ - INFO - Processing repository: Tigris-BE
+2025-09-05 14:35:56,451 - __main__ - INFO - [14/26] Completed: demo-backend
+2025-09-05 14:35:56,479 - __main__ - INFO - Processing repository: Mississippi-calc
+2025-09-05 14:35:56,479 - __main__ - INFO - [15/26] Completed: new_stack_calc
+2025-09-05 14:35:56,563 - __main__ - INFO - Processing repository: work_location_analyser
+2025-09-05 14:35:56,563 - __main__ - INFO - [16/26] Completed: process-simulation-service
+2025-09-05 14:35:56,623 - __main__ - INFO - Processing repository: Nile-calc
+2025-09-05 14:35:56,623 - __main__ - INFO - [17/26] Completed: ml_service_calc_demo
+2025-09-05 14:35:56,893 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:56,896 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:57,016 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:57,063 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:57,084 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:57,644 - __main__ - INFO - Processing repository: nile-calc-encrypt
+2025-09-05 14:35:57,644 - __main__ - INFO - Processing repository: apollo-ml
+2025-09-05 14:35:57,644 - __main__ - INFO - [18/26] Completed: work_location_analyser
+2025-09-05 14:35:57,649 - __main__ - INFO - [19/26] Completed: Tigris-BE
+2025-09-05 14:35:58,118 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:58,118 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:58,141 - __main__ - INFO - Processing repository: git-kt
+2025-09-05 14:35:58,141 - __main__ - INFO - [20/26] Completed: Nile-calc
+2025-09-05 14:35:58,267 - __main__ - INFO - Processing repository: Indus-web
+2025-09-05 14:35:58,267 - __main__ - INFO - [21/26] Completed: Mississippi-calc
+2025-09-05 14:35:58,664 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:58,748 - __main__ - INFO - [22/26] Completed: nile-calc-encrypt
+2025-09-05 14:35:58,776 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:05:50.959630+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:05:50.959630+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:35:58,783 - __main__ - INFO - [23/26] Completed: apollo-ml
+2025-09-05 14:35:58,863 - __main__ - INFO - [24/26] Completed: Project-Bheeshma
+2025-09-05 14:35:59,316 - __main__ - INFO - [25/26] Completed: git-kt
+2025-09-05 14:35:59,462 - __main__ - INFO - [26/26] Completed: Indus-web
+2025-09-05 14:35:59,464 - __main__ - INFO - ============================================================
+2025-09-05 14:35:59,464 - __main__ - INFO - Metrics collection complete!
+2025-09-05 14:44:12,128 - __main__ - INFO - Token validated. User: rks000-simreka
+2025-09-05 14:44:12,130 - __main__ - INFO - Initialized collector for org: simreka
+2025-09-05 14:44:12,130 - __main__ - INFO - Append mode: False
+2025-09-05 14:44:12,130 - __main__ - INFO - Include all users: True
+2025-09-05 14:44:12,130 - __main__ - INFO - Period: 2025-06-13 to 2025-09-05
+2025-09-05 14:44:12,132 - __main__ - INFO - Starting metrics collection from 2025-06-13 to 2025-09-05
+2025-09-05 14:44:12,132 - __main__ - INFO - ============================================================
+2025-09-05 14:44:12,134 - __main__ - INFO - Found 37 organization members
+2025-09-05 14:44:12,136 - __main__ - INFO - Found 26 repositories
+2025-09-05 14:44:12,136 - __main__ - INFO - Processing 26 repositories with 5 workers
+2025-09-05 14:44:12,138 - __main__ - INFO - Processing repository: thermo_package
+2025-09-05 14:44:12,140 - __main__ - INFO - Processing repository: base-frontend
+2025-09-05 14:44:12,141 - __main__ - INFO - Processing repository: nile-calc-new
+2025-09-05 14:44:12,143 - __main__ - INFO - Processing repository: nile-backend
+2025-09-05 14:44:12,147 - __main__ - INFO - Processing repository: nile-frontend
+2025-09-05 14:44:12,577 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:12,579 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:12,579 - __main__ - INFO - No commits found via GraphQL for base-frontend, trying REST API
+2025-09-05 14:44:12,581 - __main__ - INFO - No commits found via GraphQL for thermo_package, trying REST API
+2025-09-05 14:44:12,585 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:12,587 - __main__ - INFO - No commits found via GraphQL for nile-calc-new, trying REST API
+2025-09-05 14:44:12,620 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:12,626 - __main__ - INFO - No commits found via GraphQL for nile-backend, trying REST API
+2025-09-05 14:44:12,658 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:12,658 - __main__ - INFO - No commits found via GraphQL for nile-frontend, trying REST API
+2025-09-05 14:44:14,522 - __main__ - INFO - Processing repository: base-backend
+2025-09-05 14:44:14,522 - __main__ - INFO - [1/26] Completed: nile-backend
+2025-09-05 14:44:14,894 - __main__ - INFO - Processing repository: Mississippi-Web
+2025-09-05 14:44:14,897 - __main__ - INFO - Processing repository: caseStudyPdfGenerator
+2025-09-05 14:44:14,897 - __main__ - INFO - [2/26] Completed: nile-frontend
+2025-09-05 14:44:14,905 - __main__ - INFO - [3/26] Completed: thermo_package
+2025-09-05 14:44:14,970 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:14,980 - __main__ - INFO - No commits found via GraphQL for base-backend, trying REST API
+2025-09-05 14:44:15,309 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:15,322 - __main__ - INFO - No commits found via GraphQL for caseStudyPdfGenerator, trying REST API
+2025-09-05 14:44:15,336 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:15,336 - __main__ - INFO - No commits found via GraphQL for Mississippi-Web, trying REST API
+2025-09-05 14:44:16,408 - __main__ - INFO - Processing repository: Automation-Mississippi
+2025-09-05 14:44:16,408 - __main__ - INFO - [4/26] Completed: nile-calc-new
+2025-09-05 14:44:16,853 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:16,855 - __main__ - INFO - No commits found via GraphQL for Automation-Mississippi, trying REST API
+2025-09-05 14:44:17,057 - __main__ - INFO - Processing repository: pdf-exploration
+2025-09-05 14:44:17,057 - __main__ - INFO - [5/26] Completed: caseStudyPdfGenerator
+2025-09-05 14:44:17,565 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:17,565 - __main__ - INFO - No commits found via GraphQL for pdf-exploration, trying REST API
+2025-09-05 14:44:18,539 - __main__ - INFO - Processing repository: new_stack_calc
+2025-09-05 14:44:18,539 - __main__ - INFO - [6/26] Completed: Automation-Mississippi
+2025-09-05 14:44:19,009 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:19,017 - __main__ - INFO - No commits found via GraphQL for new_stack_calc, trying REST API
+2025-09-05 14:44:19,254 - __main__ - INFO - Processing repository: Tigris-FE
+2025-09-05 14:44:19,254 - __main__ - INFO - [7/26] Completed: pdf-exploration
+2025-09-05 14:44:19,728 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:19,732 - __main__ - INFO - No commits found via GraphQL for Tigris-FE, trying REST API
+2025-09-05 14:44:21,716 - __main__ - INFO - Processing repository: demo-frontend
+2025-09-05 14:44:21,716 - __main__ - INFO - [8/26] Completed: new_stack_calc
+2025-09-05 14:44:22,216 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:22,217 - __main__ - INFO - No commits found via GraphQL for demo-frontend, trying REST API
+2025-09-05 14:44:22,403 - __main__ - INFO - Processing repository: QA_Automation
+2025-09-05 14:44:22,403 - __main__ - INFO - [9/26] Completed: Tigris-FE
+2025-09-05 14:44:22,884 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:22,884 - __main__ - INFO - No commits found via GraphQL for QA_Automation, trying REST API
+2025-09-05 14:44:24,454 - __main__ - INFO - Processing repository: demo-backend
+2025-09-05 14:44:24,456 - __main__ - INFO - [10/26] Completed: QA_Automation
+2025-09-05 14:44:24,494 - __main__ - INFO - Processing repository: process-simulation-service
+2025-09-05 14:44:24,496 - __main__ - INFO - [11/26] Completed: demo-frontend
+2025-09-05 14:44:24,757 - __main__ - INFO - Processing repository: ml_service_calc_demo
+2025-09-05 14:44:24,760 - __main__ - INFO - [12/26] Completed: base-backend
+2025-09-05 14:44:25,090 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:25,090 - __main__ - INFO - No commits found via GraphQL for demo-backend, trying REST API
+2025-09-05 14:44:25,169 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:25,169 - __main__ - INFO - No commits found via GraphQL for process-simulation-service, trying REST API
+2025-09-05 14:44:25,179 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:25,181 - __main__ - INFO - No commits found via GraphQL for ml_service_calc_demo, trying REST API
+2025-09-05 14:44:26,900 - __main__ - INFO - Processing repository: Project-Bheeshma
+2025-09-05 14:44:26,900 - __main__ - INFO - Processing repository: Tigris-BE
+2025-09-05 14:44:26,900 - __main__ - INFO - [13/26] Completed: process-simulation-service
+2025-09-05 14:44:26,911 - __main__ - INFO - [14/26] Completed: ml_service_calc_demo
+2025-09-05 14:44:27,281 - __main__ - INFO - Processing repository: Mississippi-calc
+2025-09-05 14:44:27,281 - __main__ - INFO - [15/26] Completed: demo-backend
+2025-09-05 14:44:27,323 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:27,327 - __main__ - INFO - No commits found via GraphQL for Tigris-BE, trying REST API
+2025-09-05 14:44:27,469 - __main__ - INFO - Processing repository: work_location_analyser
+2025-09-05 14:44:27,469 - __main__ - INFO - [16/26] Completed: Mississippi-Web
+2025-09-05 14:44:27,684 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:27,684 - __main__ - INFO - No commits found via GraphQL for Mississippi-calc, trying REST API
+2025-09-05 14:44:27,900 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:27,904 - __main__ - INFO - No commits found via GraphQL for Project-Bheeshma, trying REST API
+2025-09-05 14:44:27,925 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:27,925 - __main__ - INFO - No commits found via GraphQL for work_location_analyser, trying REST API
+2025-09-05 14:44:29,307 - __main__ - INFO - Processing repository: Nile-calc
+2025-09-05 14:44:29,307 - __main__ - INFO - [17/26] Completed: Tigris-BE
+2025-09-05 14:44:29,472 - __main__ - INFO - Processing repository: nile-calc-encrypt
+2025-09-05 14:44:29,472 - __main__ - INFO - [18/26] Completed: work_location_analyser
+2025-09-05 14:44:29,785 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:29,801 - __main__ - INFO - No commits found via GraphQL for Nile-calc, trying REST API
+2025-09-05 14:44:29,894 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:29,896 - __main__ - INFO - No commits found via GraphQL for nile-calc-encrypt, trying REST API
+2025-09-05 14:44:31,071 - __main__ - INFO - Processing repository: apollo-ml
+2025-09-05 14:44:31,071 - __main__ - INFO - [19/26] Completed: nile-calc-encrypt
+2025-09-05 14:44:31,175 - __main__ - INFO - Processing repository: git-kt
+2025-09-05 14:44:31,175 - __main__ - INFO - [20/26] Completed: base-frontend
+2025-09-05 14:44:31,580 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:31,580 - __main__ - INFO - No commits found via GraphQL for apollo-ml, trying REST API
+2025-09-05 14:44:31,646 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:31,650 - __main__ - INFO - No commits found via GraphQL for git-kt, trying REST API
+2025-09-05 14:44:32,073 - __main__ - INFO - Processing repository: Indus-web
+2025-09-05 14:44:32,073 - __main__ - INFO - [21/26] Completed: Nile-calc
+2025-09-05 14:44:32,532 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:14:11.571409+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:14:11.571409+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:44:32,532 - __main__ - INFO - No commits found via GraphQL for Indus-web, trying REST API
+2025-09-05 14:44:32,670 - __main__ - INFO - [22/26] Completed: apollo-ml
+2025-09-05 14:44:33,640 - __main__ - INFO - [23/26] Completed: git-kt
+2025-09-05 14:44:33,848 - __main__ - INFO - [24/26] Completed: Indus-web
+2025-09-05 14:44:33,943 - __main__ - INFO - [25/26] Completed: Project-Bheeshma
+2025-09-05 14:44:34,018 - __main__ - INFO - [26/26] Completed: Mississippi-calc
+2025-09-05 14:44:34,018 - __main__ - INFO - ============================================================
+2025-09-05 14:44:34,018 - __main__ - INFO - Metrics collection complete!
+2025-09-05 14:55:17,664 - __main__ - INFO - Token validated. User: rks000-simreka
+2025-09-05 14:55:17,665 - __main__ - INFO - Initialized collector for org: simreka
+2025-09-05 14:55:17,669 - __main__ - INFO - Append mode: False
+2025-09-05 14:55:17,669 - __main__ - INFO - Include all users: True
+2025-09-05 14:55:17,669 - __main__ - INFO - Period: 2025-06-13 to 2025-09-05
+2025-09-05 14:55:17,674 - __main__ - INFO - Starting metrics collection from 2025-06-13 to 2025-09-05
+2025-09-05 14:55:17,674 - __main__ - INFO - ============================================================
+2025-09-05 14:55:17,679 - __main__ - INFO - Found 37 organization members
+2025-09-05 14:55:17,691 - __main__ - INFO - Found 26 repositories
+2025-09-05 14:55:17,691 - __main__ - INFO - Processing 26 repositories with 5 workers
+2025-09-05 14:55:17,695 - __main__ - INFO - Processing repository: thermo_package
+2025-09-05 14:55:17,707 - __main__ - INFO - Processing repository: base-frontend
+2025-09-05 14:55:17,712 - __main__ - INFO - Processing repository: nile-calc-new
+2025-09-05 14:55:17,714 - __main__ - INFO - Processing repository: nile-backend
+2025-09-05 14:55:17,724 - __main__ - INFO - Processing repository: nile-frontend
+2025-09-05 14:55:18,232 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:18,242 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:18,244 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:18,244 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:18,245 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:18,246 - __main__ - INFO - No commits found via GraphQL for base-frontend, trying REST API
+2025-09-05 14:55:18,308 - __main__ - INFO - No commits found via GraphQL for nile-frontend, trying REST API
+2025-09-05 14:55:18,309 - __main__ - INFO - No commits found via GraphQL for thermo_package, trying REST API
+2025-09-05 14:55:18,314 - __main__ - INFO - No commits found via GraphQL for nile-backend, trying REST API
+2025-09-05 14:55:18,317 - __main__ - INFO - No commits found via GraphQL for nile-calc-new, trying REST API
+2025-09-05 14:55:20,298 - __main__ - INFO - Processing repository: base-backend
+2025-09-05 14:55:20,298 - __main__ - INFO - [1/26] Completed: nile-backend
+2025-09-05 14:55:20,878 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:20,878 - __main__ - INFO - No commits found via GraphQL for base-backend, trying REST API
+2025-09-05 14:55:21,138 - __main__ - INFO - Processing repository: Mississippi-Web
+2025-09-05 14:55:21,138 - __main__ - INFO - [2/26] Completed: nile-frontend
+2025-09-05 14:55:21,169 - __main__ - INFO - Processing repository: caseStudyPdfGenerator
+2025-09-05 14:55:21,171 - __main__ - INFO - [3/26] Completed: thermo_package
+2025-09-05 14:55:21,772 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:21,772 - __main__ - INFO - No commits found via GraphQL for Mississippi-Web, trying REST API
+2025-09-05 14:55:21,796 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:21,802 - __main__ - INFO - No commits found via GraphQL for caseStudyPdfGenerator, trying REST API
+2025-09-05 14:55:21,985 - __main__ - INFO - Processing repository: Automation-Mississippi
+2025-09-05 14:55:21,985 - __main__ - INFO - [4/26] Completed: nile-calc-new
+2025-09-05 14:55:22,547 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:22,547 - __main__ - INFO - No commits found via GraphQL for Automation-Mississippi, trying REST API
+2025-09-05 14:55:23,673 - __main__ - INFO - Processing repository: pdf-exploration
+2025-09-05 14:55:23,673 - __main__ - INFO - [5/26] Completed: caseStudyPdfGenerator
+2025-09-05 14:55:24,190 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:24,197 - __main__ - INFO - No commits found via GraphQL for pdf-exploration, trying REST API
+2025-09-05 14:55:24,401 - __main__ - INFO - Processing repository: new_stack_calc
+2025-09-05 14:55:24,401 - __main__ - INFO - [6/26] Completed: Automation-Mississippi
+2025-09-05 14:55:24,863 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:24,863 - __main__ - INFO - No commits found via GraphQL for new_stack_calc, trying REST API
+2025-09-05 14:55:26,016 - __main__ - INFO - Processing repository: Tigris-FE
+2025-09-05 14:55:26,016 - __main__ - INFO - [7/26] Completed: pdf-exploration
+2025-09-05 14:55:26,530 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:26,530 - __main__ - INFO - No commits found via GraphQL for Tigris-FE, trying REST API
+2025-09-05 14:55:27,754 - __main__ - INFO - Processing repository: demo-frontend
+2025-09-05 14:55:27,756 - __main__ - INFO - [8/26] Completed: new_stack_calc
+2025-09-05 14:55:28,179 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:28,179 - __main__ - INFO - No commits found via GraphQL for demo-frontend, trying REST API
+2025-09-05 14:55:29,216 - __main__ - INFO - Processing repository: QA_Automation
+2025-09-05 14:55:29,216 - __main__ - INFO - [9/26] Completed: Tigris-FE
+2025-09-05 14:55:29,717 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:29,728 - __main__ - INFO - No commits found via GraphQL for QA_Automation, trying REST API
+2025-09-05 14:55:31,131 - __main__ - INFO - Processing repository: demo-backend
+2025-09-05 14:55:31,131 - __main__ - INFO - [10/26] Completed: demo-frontend
+2025-09-05 14:55:31,305 - __main__ - INFO - Processing repository: process-simulation-service
+2025-09-05 14:55:31,305 - __main__ - INFO - [11/26] Completed: base-backend
+2025-09-05 14:55:31,581 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:31,584 - __main__ - INFO - No commits found via GraphQL for demo-backend, trying REST API
+2025-09-05 14:55:31,675 - __main__ - INFO - Processing repository: ml_service_calc_demo
+2025-09-05 14:55:31,675 - __main__ - INFO - [12/26] Completed: QA_Automation
+2025-09-05 14:55:31,785 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:31,787 - __main__ - INFO - No commits found via GraphQL for process-simulation-service, trying REST API
+2025-09-05 14:55:32,156 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:32,163 - __main__ - INFO - No commits found via GraphQL for ml_service_calc_demo, trying REST API
+2025-09-05 14:55:33,338 - __main__ - INFO - Processing repository: Project-Bheeshma
+2025-09-05 14:55:33,338 - __main__ - INFO - [13/26] Completed: demo-backend
+2025-09-05 14:55:33,573 - __main__ - INFO - Processing repository: Tigris-BE
+2025-09-05 14:55:33,573 - __main__ - INFO - [14/26] Completed: process-simulation-service
+2025-09-05 14:55:33,787 - __main__ - INFO - Processing repository: Mississippi-calc
+2025-09-05 14:55:33,787 - __main__ - INFO - [15/26] Completed: ml_service_calc_demo
+2025-09-05 14:55:33,789 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:33,796 - __main__ - INFO - No commits found via GraphQL for Project-Bheeshma, trying REST API
+2025-09-05 14:55:34,025 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:34,025 - __main__ - INFO - No commits found via GraphQL for Tigris-BE, trying REST API
+2025-09-05 14:55:34,246 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:34,249 - __main__ - INFO - No commits found via GraphQL for Mississippi-calc, trying REST API
+2025-09-05 14:55:34,683 - __main__ - INFO - Processing repository: work_location_analyser
+2025-09-05 14:55:34,683 - __main__ - INFO - [16/26] Completed: Mississippi-Web
+2025-09-05 14:55:35,157 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:35,157 - __main__ - INFO - No commits found via GraphQL for work_location_analyser, trying REST API
+2025-09-05 14:55:36,475 - __main__ - INFO - Processing repository: Nile-calc
+2025-09-05 14:55:36,475 - __main__ - INFO - [17/26] Completed: Tigris-BE
+2025-09-05 14:55:36,855 - __main__ - INFO - Processing repository: nile-calc-encrypt
+2025-09-05 14:55:36,855 - __main__ - INFO - [18/26] Completed: base-frontend
+2025-09-05 14:55:36,934 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:36,934 - __main__ - INFO - No commits found via GraphQL for Nile-calc, trying REST API
+2025-09-05 14:55:37,103 - __main__ - INFO - Processing repository: apollo-ml
+2025-09-05 14:55:37,106 - __main__ - INFO - [19/26] Completed: work_location_analyser
+2025-09-05 14:55:37,388 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:37,391 - __main__ - INFO - No commits found via GraphQL for nile-calc-encrypt, trying REST API
+2025-09-05 14:55:37,588 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:37,589 - __main__ - INFO - No commits found via GraphQL for apollo-ml, trying REST API
+2025-09-05 14:55:38,749 - __main__ - INFO - Processing repository: git-kt
+2025-09-05 14:55:38,749 - __main__ - INFO - [20/26] Completed: nile-calc-encrypt
+2025-09-05 14:55:38,759 - __main__ - INFO - Processing repository: Indus-web
+2025-09-05 14:55:38,759 - __main__ - INFO - [21/26] Completed: apollo-ml
+2025-09-05 14:55:39,234 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:39,234 - __main__ - INFO - No commits found via GraphQL for git-kt, trying REST API
+2025-09-05 14:55:39,249 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:25:15.953797+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:25:15.953797+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 14:55:39,250 - __main__ - INFO - No commits found via GraphQL for Indus-web, trying REST API
+2025-09-05 14:55:39,260 - __main__ - INFO - [22/26] Completed: Nile-calc
+2025-09-05 14:55:40,197 - __main__ - INFO - [23/26] Completed: Project-Bheeshma
+2025-09-05 14:55:40,658 - __main__ - INFO - [24/26] Completed: Indus-web
+2025-09-05 14:55:40,658 - __main__ - INFO - [25/26] Completed: Mississippi-calc
+2025-09-05 14:55:41,254 - __main__ - INFO - [26/26] Completed: git-kt
+2025-09-05 14:55:41,255 - __main__ - INFO - ============================================================
+2025-09-05 14:55:41,256 - __main__ - INFO - Metrics collection complete!
+2025-09-05 15:08:16,198 - __main__ - INFO - Token validated. User: rks000-simreka
+2025-09-05 15:08:16,198 - __main__ - INFO - Initialized collector for org: simreka
+2025-09-05 15:08:16,198 - __main__ - INFO - Append mode: False
+2025-09-05 15:08:16,198 - __main__ - INFO - Include all users: True
+2025-09-05 15:08:16,198 - __main__ - INFO - Use REST API for line counts: True
+2025-09-05 15:08:16,198 - __main__ - INFO - Period: 2025-06-13 to 2025-09-05
+2025-09-05 15:08:16,198 - __main__ - INFO - Starting metrics collection from 2025-06-13 to 2025-09-05
+2025-09-05 15:08:16,202 - __main__ - INFO - ============================================================
+2025-09-05 15:08:16,203 - __main__ - INFO - Found 37 organization members
+2025-09-05 15:08:16,203 - __main__ - INFO - Found 26 repositories
+2025-09-05 15:08:16,203 - __main__ - INFO - Processing 26 repositories with 5 workers
+2025-09-05 15:08:16,207 - __main__ - INFO - Processing repository: thermo_package
+2025-09-05 15:08:16,209 - __main__ - INFO - Processing repository: base-frontend
+2025-09-05 15:08:16,211 - __main__ - INFO - Processing repository: nile-calc-new
+2025-09-05 15:08:16,215 - __main__ - INFO - Processing repository: nile-backend
+2025-09-05 15:08:16,217 - __main__ - INFO - Processing repository: nile-frontend
+2025-09-05 15:08:16,673 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:16,673 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:16,673 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:16,675 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:16,705 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:17,489 - __main__ - INFO - Processing repository: base-backend
+2025-09-05 15:08:17,490 - __main__ - INFO - [1/26] Completed: nile-backend
+2025-09-05 15:08:17,665 - __main__ - INFO - Processing repository: Mississippi-Web
+2025-09-05 15:08:17,665 - __main__ - INFO - [2/26] Completed: nile-frontend
+2025-09-05 15:08:17,951 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:17,978 - __main__ - INFO - Processing repository: caseStudyPdfGenerator
+2025-09-05 15:08:17,978 - __main__ - INFO - [3/26] Completed: thermo_package
+2025-09-05 15:08:18,116 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:18,501 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:19,136 - __main__ - INFO - Processing repository: Automation-Mississippi
+2025-09-05 15:08:19,136 - __main__ - INFO - [4/26] Completed: caseStudyPdfGenerator
+2025-09-05 15:08:19,594 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:19,898 - __main__ - INFO - Processing repository: pdf-exploration
+2025-09-05 15:08:19,898 - __main__ - INFO - [5/26] Completed: nile-calc-new
+2025-09-05 15:08:20,169 - __main__ - INFO - Processing repository: new_stack_calc
+2025-09-05 15:08:20,169 - __main__ - INFO - [6/26] Completed: Automation-Mississippi
+2025-09-05 15:08:20,339 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:20,597 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:21,014 - __main__ - INFO - Processing repository: Tigris-FE
+2025-09-05 15:08:21,014 - __main__ - INFO - [7/26] Completed: pdf-exploration
+2025-09-05 15:08:21,461 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:22,158 - __main__ - INFO - Processing repository: demo-frontend
+2025-09-05 15:08:22,160 - __main__ - INFO - [8/26] Completed: Tigris-FE
+2025-09-05 15:08:22,191 - __main__ - INFO - Processing repository: QA_Automation
+2025-09-05 15:08:22,196 - __main__ - INFO - [9/26] Completed: new_stack_calc
+2025-09-05 15:08:22,617 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:22,664 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:23,225 - __main__ - INFO - Processing repository: demo-backend
+2025-09-05 15:08:23,229 - __main__ - INFO - [10/26] Completed: QA_Automation
+2025-09-05 15:08:23,475 - __main__ - INFO - Processing repository: process-simulation-service
+2025-09-05 15:08:23,475 - __main__ - INFO - [11/26] Completed: demo-frontend
+2025-09-05 15:08:23,702 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:23,937 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:24,335 - __main__ - INFO - Processing repository: ml_service_calc_demo
+2025-09-05 15:08:24,335 - __main__ - INFO - [12/26] Completed: demo-backend
+2025-09-05 15:08:24,571 - __main__ - INFO - Processing repository: Project-Bheeshma
+2025-09-05 15:08:24,571 - __main__ - INFO - [13/26] Completed: process-simulation-service
+2025-09-05 15:08:24,596 - __main__ - INFO - Processing repository: Tigris-BE
+2025-09-05 15:08:24,596 - __main__ - INFO - [14/26] Completed: base-backend
+2025-09-05 15:08:24,808 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:25,130 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:25,187 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:25,758 - __main__ - INFO - Processing repository: Mississippi-calc
+2025-09-05 15:08:25,758 - __main__ - INFO - [15/26] Completed: ml_service_calc_demo
+2025-09-05 15:08:25,906 - __main__ - INFO - Processing repository: work_location_analyser
+2025-09-05 15:08:25,906 - __main__ - INFO - [16/26] Completed: Tigris-BE
+2025-09-05 15:08:26,253 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:26,360 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:26,915 - __main__ - INFO - Processing repository: Nile-calc
+2025-09-05 15:08:26,915 - __main__ - INFO - [17/26] Completed: work_location_analyser
+2025-09-05 15:08:27,385 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:27,550 - __main__ - INFO - Processing repository: nile-calc-encrypt
+2025-09-05 15:08:27,552 - __main__ - INFO - [18/26] Completed: base-frontend
+2025-09-05 15:08:27,644 - __main__ - INFO - Processing repository: apollo-ml
+2025-09-05 15:08:27,644 - __main__ - INFO - [19/26] Completed: Project-Bheeshma
+2025-09-05 15:08:28,035 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:28,087 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:28,753 - __main__ - INFO - Processing repository: git-kt
+2025-09-05 15:08:28,753 - __main__ - INFO - [20/26] Completed: apollo-ml
+2025-09-05 15:08:28,778 - __main__ - INFO - Processing repository: Indus-web
+2025-09-05 15:08:28,779 - __main__ - INFO - [21/26] Completed: nile-calc-encrypt
+2025-09-05 15:08:29,232 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:29,254 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:38:15.549333+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:38:15.549333+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:08:29,293 - __main__ - INFO - [22/26] Completed: Nile-calc
+2025-09-05 15:08:29,530 - __main__ - INFO - [23/26] Completed: Mississippi-Web
+2025-09-05 15:08:29,960 - __main__ - INFO - [24/26] Completed: Indus-web
+2025-09-05 15:08:29,960 - __main__ - INFO - [25/26] Completed: git-kt
+2025-09-05 15:08:31,826 - __main__ - INFO - [26/26] Completed: Mississippi-calc
+2025-09-05 15:08:31,827 - __main__ - INFO - ============================================================
+2025-09-05 15:08:31,827 - __main__ - INFO - Metrics collection complete!
+2025-09-05 15:12:41,233 - __main__ - INFO - Token validated. User: rks000-simreka
+2025-09-05 15:12:41,236 - __main__ - INFO - Initialized collector for org: simreka
+2025-09-05 15:12:41,238 - __main__ - INFO - Append mode: False
+2025-09-05 15:12:41,240 - __main__ - INFO - Include all users: True
+2025-09-05 15:12:41,245 - __main__ - INFO - Use REST API for line counts: True
+2025-09-05 15:12:41,247 - __main__ - INFO - Period: 2025-06-13 to 2025-09-05
+2025-09-05 15:12:41,269 - __main__ - INFO - Starting metrics collection from 2025-06-13 to 2025-09-05
+2025-09-05 15:12:41,271 - __main__ - INFO - ============================================================
+2025-09-05 15:12:41,284 - __main__ - INFO - Found 37 organization members
+2025-09-05 15:12:41,289 - __main__ - INFO - Found 26 repositories
+2025-09-05 15:12:41,299 - __main__ - INFO - Processing 26 repositories with 5 workers
+2025-09-05 15:12:41,310 - __main__ - INFO - Processing repository: thermo_package
+2025-09-05 15:12:41,319 - __main__ - INFO - Processing repository: base-frontend
+2025-09-05 15:12:41,329 - __main__ - INFO - Processing repository: nile-calc-new
+2025-09-05 15:12:41,341 - __main__ - INFO - Processing repository: nile-backend
+2025-09-05 15:12:41,355 - __main__ - INFO - Processing repository: nile-frontend
+2025-09-05 15:12:41,840 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:41,841 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:41,857 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:41,864 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:41,876 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:42,563 - __main__ - INFO - Processing repository: base-backend
+2025-09-05 15:12:42,563 - __main__ - INFO - [1/26] Completed: nile-backend
+2025-09-05 15:12:42,762 - __main__ - INFO - Processing repository: Mississippi-Web
+2025-09-05 15:12:42,764 - __main__ - INFO - [2/26] Completed: nile-frontend
+2025-09-05 15:12:42,997 - __main__ - INFO - Processing repository: caseStudyPdfGenerator
+2025-09-05 15:12:42,999 - __main__ - INFO - [3/26] Completed: thermo_package
+2025-09-05 15:12:43,093 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:43,246 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:43,447 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:44,066 - __main__ - INFO - Processing repository: Automation-Mississippi
+2025-09-05 15:12:44,066 - __main__ - INFO - [4/26] Completed: caseStudyPdfGenerator
+2025-09-05 15:12:44,499 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:44,845 - __main__ - INFO - Processing repository: pdf-exploration
+2025-09-05 15:12:44,845 - __main__ - INFO - [5/26] Completed: nile-calc-new
+2025-09-05 15:12:45,060 - __main__ - INFO - Processing repository: new_stack_calc
+2025-09-05 15:12:45,061 - __main__ - INFO - [6/26] Completed: Automation-Mississippi
+2025-09-05 15:12:45,344 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:45,550 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:45,981 - __main__ - INFO - Processing repository: Tigris-FE
+2025-09-05 15:12:45,983 - __main__ - INFO - [7/26] Completed: pdf-exploration
+2025-09-05 15:12:46,533 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:47,301 - __main__ - INFO - Processing repository: demo-frontend
+2025-09-05 15:12:47,316 - __main__ - INFO - [8/26] Completed: Tigris-FE
+2025-09-05 15:12:47,909 - __main__ - INFO - Processing repository: QA_Automation
+2025-09-05 15:12:47,909 - __main__ - INFO - [9/26] Completed: new_stack_calc
+2025-09-05 15:12:47,911 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:48,541 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:48,837 - __main__ - INFO - Processing repository: demo-backend
+2025-09-05 15:12:48,837 - __main__ - INFO - [10/26] Completed: demo-frontend
+2025-09-05 15:12:49,210 - __main__ - INFO - Processing repository: process-simulation-service
+2025-09-05 15:12:49,210 - __main__ - INFO - [11/26] Completed: QA_Automation
+2025-09-05 15:12:49,299 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:49,659 - __main__ - INFO - Processing repository: ml_service_calc_demo
+2025-09-05 15:12:49,659 - __main__ - INFO - [12/26] Completed: base-backend
+2025-09-05 15:12:49,687 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:49,943 - __main__ - INFO - Processing repository: Project-Bheeshma
+2025-09-05 15:12:49,943 - __main__ - INFO - [13/26] Completed: demo-backend
+2025-09-05 15:12:50,153 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:50,344 - __main__ - INFO - Processing repository: Tigris-BE
+2025-09-05 15:12:50,344 - __main__ - INFO - [14/26] Completed: process-simulation-service
+2025-09-05 15:12:50,401 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:50,767 - __main__ - INFO - Processing repository: Mississippi-calc
+2025-09-05 15:12:50,767 - __main__ - INFO - [15/26] Completed: ml_service_calc_demo
+2025-09-05 15:12:50,819 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:51,214 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:51,437 - __main__ - INFO - Processing repository: work_location_analyser
+2025-09-05 15:12:51,438 - __main__ - INFO - [16/26] Completed: Tigris-BE
+2025-09-05 15:12:51,908 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:52,461 - __main__ - INFO - Processing repository: Nile-calc
+2025-09-05 15:12:52,461 - __main__ - INFO - [17/26] Completed: work_location_analyser
+2025-09-05 15:12:53,045 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:53,167 - __main__ - INFO - Processing repository: nile-calc-encrypt
+2025-09-05 15:12:53,167 - __main__ - INFO - [18/26] Completed: Project-Bheeshma
+2025-09-05 15:12:53,285 - __main__ - INFO - Processing repository: apollo-ml
+2025-09-05 15:12:53,285 - __main__ - INFO - [19/26] Completed: base-frontend
+2025-09-05 15:12:53,646 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:53,741 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:54,313 - __main__ - INFO - Processing repository: git-kt
+2025-09-05 15:12:54,320 - __main__ - INFO - [20/26] Completed: nile-calc-encrypt
+2025-09-05 15:12:54,462 - __main__ - INFO - Processing repository: Indus-web
+2025-09-05 15:12:54,462 - __main__ - INFO - [21/26] Completed: apollo-ml
+2025-09-05 15:12:54,841 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:54,876 - __main__ - INFO - [22/26] Completed: Nile-calc
+2025-09-05 15:12:54,945 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:42:40.597497+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:42:40.597497+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:12:55,560 - __main__ - INFO - [23/26] Completed: git-kt
+2025-09-05 15:12:55,730 - __main__ - INFO - [24/26] Completed: Indus-web
+2025-09-05 15:12:56,437 - __main__ - INFO - [25/26] Completed: Mississippi-calc
+2025-09-05 15:12:56,491 - __main__ - INFO - [26/26] Completed: Mississippi-Web
+2025-09-05 15:12:56,495 - __main__ - INFO - ============================================================
+2025-09-05 15:12:56,497 - __main__ - INFO - Metrics collection complete!
+2025-09-05 15:14:21,133 - __main__ - INFO - Token validated. User: rks000-simreka
+2025-09-05 15:14:21,133 - __main__ - INFO - Initialized collector for org: simreka
+2025-09-05 15:14:21,133 - __main__ - INFO - Append mode: False
+2025-09-05 15:14:21,135 - __main__ - INFO - Period: 2025-06-13 to 2025-09-05
+2025-09-05 15:14:21,136 - __main__ - INFO - Starting metrics collection from 2025-06-13 to 2025-09-05
+2025-09-05 15:14:21,136 - __main__ - INFO - ============================================================
+2025-09-05 15:14:21,159 - __main__ - INFO - Found 37 organization members
+2025-09-05 15:14:21,161 - __main__ - INFO - Found 26 active repositories
+2025-09-05 15:14:21,161 - __main__ - INFO - Processing 26 repositories with 5 workers
+2025-09-05 15:14:21,163 - __main__ - INFO - Processing repository: thermo_package
+2025-09-05 15:14:21,165 - __main__ - INFO - Processing repository: base-frontend
+2025-09-05 15:14:21,167 - __main__ - INFO - Processing repository: nile-calc-new
+2025-09-05 15:14:21,167 - __main__ - INFO - Processing repository: nile-backend
+2025-09-05 15:14:21,171 - __main__ - INFO - Processing repository: nile-frontend
+2025-09-05 15:14:21,770 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:21,792 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:21,793 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:21,793 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:21,842 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:22,401 - __main__ - INFO - Processing repository: base-backend
+2025-09-05 15:14:22,404 - __main__ - INFO - [1/26] Completed: nile-backend
+2025-09-05 15:14:22,552 - __main__ - INFO - Processing repository: Mississippi-Web
+2025-09-05 15:14:22,553 - __main__ - INFO - [2/26] Completed: nile-frontend
+2025-09-05 15:14:22,695 - __main__ - INFO - Processing repository: caseStudyPdfGenerator
+2025-09-05 15:14:22,695 - __main__ - INFO - [3/26] Completed: nile-calc-new
+2025-09-05 15:14:22,855 - __main__ - INFO - Processing repository: Automation-Mississippi
+2025-09-05 15:14:22,855 - __main__ - INFO - [4/26] Completed: thermo_package
+2025-09-05 15:14:22,886 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:23,029 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:23,179 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:23,305 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:23,726 - __main__ - INFO - Processing repository: pdf-exploration
+2025-09-05 15:14:23,726 - __main__ - INFO - [5/26] Completed: caseStudyPdfGenerator
+2025-09-05 15:14:23,890 - __main__ - INFO - Processing repository: new_stack_calc
+2025-09-05 15:14:23,890 - __main__ - INFO - [6/26] Completed: Automation-Mississippi
+2025-09-05 15:14:23,985 - __main__ - INFO - Processing repository: Tigris-FE
+2025-09-05 15:14:23,985 - __main__ - INFO - [7/26] Completed: base-backend
+2025-09-05 15:14:24,005 - __main__ - INFO - Processing repository: demo-frontend
+2025-09-05 15:14:24,007 - __main__ - INFO - [8/26] Completed: base-frontend
+2025-09-05 15:14:24,188 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:24,377 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:24,464 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:24,487 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:24,800 - __main__ - INFO - Processing repository: QA_Automation
+2025-09-05 15:14:24,800 - __main__ - INFO - [9/26] Completed: pdf-exploration
+2025-09-05 15:14:25,077 - __main__ - INFO - Processing repository: demo-backend
+2025-09-05 15:14:25,077 - __main__ - INFO - [10/26] Completed: Mississippi-Web
+2025-09-05 15:14:25,178 - __main__ - INFO - Processing repository: process-simulation-service
+2025-09-05 15:14:25,180 - __main__ - INFO - [11/26] Completed: Tigris-FE
+2025-09-05 15:14:25,239 - __main__ - INFO - Processing repository: ml_service_calc_demo
+2025-09-05 15:14:25,239 - __main__ - INFO - [12/26] Completed: demo-frontend
+2025-09-05 15:14:25,289 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:25,570 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:25,641 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:25,698 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:25,842 - __main__ - INFO - Processing repository: Project-Bheeshma
+2025-09-05 15:14:25,842 - __main__ - INFO - [13/26] Completed: QA_Automation
+2025-09-05 15:14:26,196 - __main__ - INFO - Processing repository: Tigris-BE
+2025-09-05 15:14:26,196 - __main__ - INFO - [14/26] Completed: new_stack_calc
+2025-09-05 15:14:26,222 - __main__ - INFO - Processing repository: Mississippi-calc
+2025-09-05 15:14:26,222 - __main__ - INFO - [15/26] Completed: demo-backend
+2025-09-05 15:14:26,238 - __main__ - INFO - Processing repository: work_location_analyser
+2025-09-05 15:14:26,238 - __main__ - INFO - [16/26] Completed: process-simulation-service
+2025-09-05 15:14:26,288 - __main__ - INFO - Processing repository: Nile-calc
+2025-09-05 15:14:26,288 - __main__ - INFO - [17/26] Completed: ml_service_calc_demo
+2025-09-05 15:14:26,310 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:26,666 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:26,697 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:26,728 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:26,757 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:27,280 - __main__ - INFO - Processing repository: nile-calc-encrypt
+2025-09-05 15:14:27,282 - __main__ - INFO - [18/26] Completed: work_location_analyser
+2025-09-05 15:14:27,306 - __main__ - INFO - Processing repository: apollo-ml
+2025-09-05 15:14:27,310 - __main__ - INFO - [19/26] Completed: Tigris-BE
+2025-09-05 15:14:27,793 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:27,796 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:27,808 - __main__ - INFO - Processing repository: git-kt
+2025-09-05 15:14:27,811 - __main__ - INFO - [20/26] Completed: Nile-calc
+2025-09-05 15:14:27,854 - __main__ - INFO - Processing repository: Indus-web
+2025-09-05 15:14:27,854 - __main__ - INFO - [21/26] Completed: Mississippi-calc
+2025-09-05 15:14:28,245 - __main__ - INFO - [22/26] Completed: Project-Bheeshma
+2025-09-05 15:14:28,249 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:28,319 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:20.186557+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:20.186557+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:28,319 - __main__ - INFO - [23/26] Completed: nile-calc-encrypt
+2025-09-05 15:14:28,361 - __main__ - INFO - [24/26] Completed: apollo-ml
+2025-09-05 15:14:28,815 - __main__ - INFO - [25/26] Completed: git-kt
+2025-09-05 15:14:28,945 - __main__ - INFO - [26/26] Completed: Indus-web
+2025-09-05 15:14:28,945 - __main__ - INFO - ============================================================
+2025-09-05 15:14:28,945 - __main__ - INFO - Metrics collection complete!
+2025-09-05 15:14:58,126 - __main__ - INFO - Token validated. User: rks000-simreka
+2025-09-05 15:14:58,131 - __main__ - INFO - Initialized collector for org: simreka
+2025-09-05 15:14:58,131 - __main__ - INFO - Append mode: False
+2025-09-05 15:14:58,131 - __main__ - INFO - Period: 2025-06-13 to 2025-09-05
+2025-09-05 15:14:58,131 - __main__ - INFO - Starting metrics collection from 2025-06-13 to 2025-09-05
+2025-09-05 15:14:58,131 - __main__ - INFO - ============================================================
+2025-09-05 15:14:58,134 - __main__ - INFO - Found 37 organization members
+2025-09-05 15:14:58,134 - __main__ - INFO - Found 26 active repositories
+2025-09-05 15:14:58,134 - __main__ - INFO - Processing 26 repositories with 5 workers
+2025-09-05 15:14:58,136 - __main__ - INFO - Processing repository: thermo_package
+2025-09-05 15:14:58,137 - __main__ - INFO - Processing repository: base-frontend
+2025-09-05 15:14:58,137 - __main__ - INFO - Processing repository: nile-calc-new
+2025-09-05 15:14:58,137 - __main__ - INFO - Processing repository: nile-backend
+2025-09-05 15:14:58,165 - __main__ - INFO - Processing repository: nile-frontend
+2025-09-05 15:14:58,700 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:58,702 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:58,704 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:58,704 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:58,704 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:14:59,289 - __main__ - INFO - Processing repository: base-backend
+2025-09-05 15:14:59,289 - __main__ - INFO - [1/26] Completed: nile-backend
+2025-09-05 15:14:59,581 - __main__ - INFO - Processing repository: Mississippi-Web
+2025-09-05 15:14:59,583 - __main__ - INFO - [2/26] Completed: nile-frontend
+2025-09-05 15:14:59,633 - __main__ - INFO - Processing repository: caseStudyPdfGenerator
+2025-09-05 15:14:59,633 - __main__ - INFO - [3/26] Completed: nile-calc-new
+2025-09-05 15:14:59,694 - __main__ - INFO - Processing repository: Automation-Mississippi
+2025-09-05 15:14:59,694 - __main__ - INFO - [4/26] Completed: thermo_package
+2025-09-05 15:15:00,023 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:00,095 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:00,328 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:00,331 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:00,837 - __main__ - INFO - Processing repository: pdf-exploration
+2025-09-05 15:15:00,837 - __main__ - INFO - [5/26] Completed: base-frontend
+2025-09-05 15:15:00,892 - __main__ - INFO - Processing repository: new_stack_calc
+2025-09-05 15:15:00,894 - __main__ - INFO - [6/26] Completed: Automation-Mississippi
+2025-09-05 15:15:00,906 - __main__ - INFO - Processing repository: Tigris-FE
+2025-09-05 15:15:00,906 - __main__ - INFO - [7/26] Completed: caseStudyPdfGenerator
+2025-09-05 15:15:01,334 - __main__ - INFO - Processing repository: demo-frontend
+2025-09-05 15:15:01,334 - __main__ - INFO - [8/26] Completed: base-backend
+2025-09-05 15:15:01,380 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:01,390 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:01,436 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:01,953 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:01,962 - __main__ - INFO - Processing repository: QA_Automation
+2025-09-05 15:15:01,964 - __main__ - INFO - [9/26] Completed: Tigris-FE
+2025-09-05 15:15:02,000 - __main__ - INFO - Processing repository: demo-backend
+2025-09-05 15:15:02,000 - __main__ - INFO - [10/26] Completed: pdf-exploration
+2025-09-05 15:15:02,164 - __main__ - INFO - Processing repository: process-simulation-service
+2025-09-05 15:15:02,164 - __main__ - INFO - [11/26] Completed: Mississippi-Web
+2025-09-05 15:15:02,444 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:02,476 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:02,626 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:02,894 - __main__ - INFO - Processing repository: ml_service_calc_demo
+2025-09-05 15:15:02,896 - __main__ - INFO - [12/26] Completed: demo-frontend
+2025-09-05 15:15:02,959 - __main__ - INFO - Processing repository: Project-Bheeshma
+2025-09-05 15:15:02,959 - __main__ - INFO - [13/26] Completed: QA_Automation
+2025-09-05 15:15:02,969 - __main__ - INFO - Processing repository: Tigris-BE
+2025-09-05 15:15:02,969 - __main__ - INFO - [14/26] Completed: new_stack_calc
+2025-09-05 15:15:03,082 - __main__ - INFO - Processing repository: Mississippi-calc
+2025-09-05 15:15:03,082 - __main__ - INFO - [15/26] Completed: demo-backend
+2025-09-05 15:15:03,196 - __main__ - INFO - Processing repository: work_location_analyser
+2025-09-05 15:15:03,196 - __main__ - INFO - [16/26] Completed: process-simulation-service
+2025-09-05 15:15:03,375 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:03,441 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:03,465 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:03,572 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:03,654 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:03,911 - __main__ - INFO - Processing repository: Nile-calc
+2025-09-05 15:15:03,911 - __main__ - INFO - [17/26] Completed: ml_service_calc_demo
+2025-09-05 15:15:04,090 - __main__ - INFO - Processing repository: nile-calc-encrypt
+2025-09-05 15:15:04,091 - __main__ - INFO - [18/26] Completed: Tigris-BE
+2025-09-05 15:15:04,259 - __main__ - INFO - Processing repository: apollo-ml
+2025-09-05 15:15:04,259 - __main__ - INFO - [19/26] Completed: work_location_analyser
+2025-09-05 15:15:04,377 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:04,563 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:04,686 - __main__ - INFO - Processing repository: git-kt
+2025-09-05 15:15:04,686 - __main__ - INFO - [20/26] Completed: Mississippi-calc
+2025-09-05 15:15:04,755 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:05,147 - __main__ - INFO - Processing repository: Indus-web
+2025-09-05 15:15:05,147 - __main__ - INFO - [21/26] Completed: nile-calc-encrypt
+2025-09-05 15:15:05,151 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:05,222 - __main__ - INFO - [22/26] Completed: Project-Bheeshma
+2025-09-05 15:15:05,475 - __main__ - INFO - [23/26] Completed: Nile-calc
+2025-09-05 15:15:05,505 - __main__ - INFO - [24/26] Completed: apollo-ml
+2025-09-05 15:15:05,610 - __main__ - WARNING - GraphQL error: {'extensions': {'value': '2025-06-13T09:44:57.388356+00:00Z', 'problems': [{'path': [], 'explanation': 'Could not coerce value "2025-06-13T09:44:57.388356+00:00Z" to GitTimestamp'}]}, 'locations': [{'line': 2, 'column': 48}], 'message': 'Variable $since of type GitTimestamp! was provided invalid value'}
+2025-09-05 15:15:05,786 - __main__ - INFO - [25/26] Completed: git-kt
+2025-09-05 15:15:06,368 - __main__ - INFO - [26/26] Completed: Indus-web
+2025-09-05 15:15:06,370 - __main__ - INFO - ============================================================
+2025-09-05 15:15:06,372 - __main__ - INFO - Metrics collection complete!
+2025-09-05 15:21:30,736 - __main__ - INFO - Token validated. User: rks000-simreka
+2025-09-05 15:21:30,748 - __main__ - INFO - Initialized collector for org: simreka
+2025-09-05 15:21:30,750 - __main__ - INFO - Append mode: False
+2025-09-05 15:21:30,752 - __main__ - INFO - Include all users: True
+2025-09-05 15:21:30,752 - __main__ - INFO - Period: 2025-06-13 to 2025-09-05
+2025-09-05 15:21:30,754 - __main__ - INFO - Starting metrics collection from 2025-06-13 to 2025-09-05
+2025-09-05 15:21:30,756 - __main__ - INFO - ============================================================
+2025-09-05 15:21:30,758 - __main__ - INFO - Found 37 organization members
+2025-09-05 15:21:30,767 - __main__ - INFO - Found 26 repositories
+2025-09-05 15:21:30,767 - __main__ - INFO - Processing 26 repositories with 5 workers
+2025-09-05 15:21:30,767 - __main__ - INFO - Note: Using REST API for accurate line counts (this may take a while)
+2025-09-05 15:21:30,783 - __main__ - INFO - Processing repository: thermo_package
+2025-09-05 15:21:30,790 - __main__ - INFO - Processing repository: base-frontend
+2025-09-05 15:21:30,831 - __main__ - INFO - Processing repository: nile-calc-new
+2025-09-05 15:21:30,855 - __main__ - INFO - Processing repository: nile-backend
+2025-09-05 15:21:30,873 - __main__ - INFO - Processing repository: nile-frontend
+2025-09-05 15:21:34,395 - __main__ - INFO - Processing repository: base-backend
+2025-09-05 15:21:34,396 - __main__ - INFO - [1/26] Completed: nile-calc-new
+2025-09-05 15:21:55,766 - __main__ - INFO - Processing repository: Mississippi-Web
+2025-09-05 15:21:55,766 - __main__ - INFO - [2/26] Completed: nile-backend
+2025-09-05 15:22:03,234 - __main__ - INFO - Processing repository: caseStudyPdfGenerator
+2025-09-05 15:22:03,234 - __main__ - INFO - [3/26] Completed: nile-frontend
+2025-09-05 15:22:07,384 - __main__ - INFO - Processing repository: Automation-Mississippi
+2025-09-05 15:22:07,384 - __main__ - INFO - [4/26] Completed: Mississippi-Web
+2025-09-05 15:22:17,737 - __main__ - INFO - Processing repository: pdf-exploration
+2025-09-05 15:22:17,737 - __main__ - INFO - [5/26] Completed: caseStudyPdfGenerator
+2025-09-05 15:22:19,646 - __main__ - INFO - Processing repository: new_stack_calc
+2025-09-05 15:22:19,646 - __main__ - INFO - [6/26] Completed: Automation-Mississippi
+2025-09-05 15:22:21,469 - __main__ - INFO - Processing repository: Tigris-FE
+2025-09-05 15:22:21,469 - __main__ - INFO - [7/26] Completed: pdf-exploration
+2025-09-05 15:22:23,305 - __main__ - INFO - Processing repository: demo-frontend
+2025-09-05 15:22:23,305 - __main__ - INFO - [8/26] Completed: new_stack_calc
+2025-09-05 15:22:27,283 - __main__ - INFO - Processing repository: QA_Automation
+2025-09-05 15:22:27,283 - __main__ - INFO - [9/26] Completed: thermo_package
+2025-09-05 15:22:29,489 - __main__ - INFO - Processing repository: demo-backend
+2025-09-05 15:22:29,489 - __main__ - INFO - [10/26] Completed: QA_Automation
+2025-09-05 15:22:44,306 - __main__ - INFO - Processing repository: process-simulation-service
+2025-09-05 15:22:44,312 - __main__ - INFO - [11/26] Completed: demo-backend
+2025-09-05 15:23:04,403 - __main__ - INFO - Processing repository: ml_service_calc_demo
+2025-09-05 15:23:04,403 - __main__ - INFO - [12/26] Completed: process-simulation-service
+2025-09-05 15:23:07,911 - __main__ - INFO - Processing repository: Project-Bheeshma
+2025-09-05 15:23:07,911 - __main__ - INFO - [13/26] Completed: ml_service_calc_demo
+2025-09-05 15:23:10,404 - __main__ - INFO - Processing repository: Tigris-BE
+2025-09-05 15:23:10,404 - __main__ - INFO - [14/26] Completed: demo-frontend
+2025-09-05 15:24:25,878 - __main__ - INFO - Processing repository: Mississippi-calc
+2025-09-05 15:24:25,878 - __main__ - INFO - [15/26] Completed: Tigris-FE
+2025-09-05 15:24:31,980 - __main__ - INFO - Processing repository: work_location_analyser
+2025-09-05 15:24:31,980 - __main__ - INFO - [16/26] Completed: Mississippi-calc
+2025-09-05 15:24:33,306 - __main__ - WARNING - Attempt 1 failed: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /graphql (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F97006B050>, 'Connection to api.github.com timed out. (connect timeout=30)')). Retrying in 1s...
+2025-09-05 15:24:34,353 - __main__ - INFO - Processing repository: Nile-calc
+2025-09-05 15:24:34,353 - __main__ - INFO - [17/26] Completed: work_location_analyser
+2025-09-05 15:24:35,050 - __main__ - INFO - Processing repository: nile-calc-encrypt
+2025-09-05 15:24:35,050 - __main__ - INFO - [18/26] Completed: Tigris-BE
+2025-09-05 15:24:36,221 - __main__ - INFO - Processing repository: apollo-ml
+2025-09-05 15:24:36,221 - __main__ - INFO - [19/26] Completed: nile-calc-encrypt
+2025-09-05 15:24:36,769 - __main__ - INFO - Processing repository: git-kt
+2025-09-05 15:24:36,769 - __main__ - INFO - [20/26] Completed: Nile-calc
+2025-09-05 15:24:37,331 - __main__ - INFO - Processing repository: Indus-web
+2025-09-05 15:24:37,331 - __main__ - INFO - [21/26] Completed: apollo-ml
+2025-09-05 15:24:38,764 - __main__ - INFO - [22/26] Completed: Indus-web
+2025-09-05 15:24:48,454 - __main__ - INFO - [23/26] Completed: base-backend
+2025-09-05 15:24:51,073 - __main__ - INFO - [24/26] Completed: git-kt
+2025-09-05 15:26:24,521 - __main__ - INFO - [25/26] Completed: Project-Bheeshma
+2025-09-05 15:28:26,608 - __main__ - INFO - [26/26] Completed: base-frontend
+2025-09-05 15:28:26,616 - __main__ - INFO - ============================================================
+2025-09-05 15:28:26,619 - __main__ - INFO - Metrics collection complete!
+2025-09-11 12:42:34,188 - __main__ - INFO - Token validated. User: rks000-simreka
+2025-09-11 12:42:34,192 - __main__ - INFO - Initialized collector for org: simreka
+2025-09-11 12:42:34,194 - __main__ - INFO - Append mode: False
+2025-09-11 12:42:34,194 - __main__ - INFO - Include all users: True
+2025-09-11 12:42:34,200 - __main__ - INFO - Period: 2025-06-19 to 2025-09-11
+2025-09-11 12:42:34,238 - __main__ - INFO - Starting metrics collection from 2025-06-19 to 2025-09-11
+2025-09-11 12:42:34,245 - __main__ - INFO - ============================================================
+2025-09-11 12:42:35,143 - __main__ - INFO - Found 37 organization members
+2025-09-11 12:42:43,493 - __main__ - INFO - Found 118 repositories
+2025-09-11 12:42:43,502 - __main__ - INFO - Processing 118 repositories with 5 workers
+2025-09-11 12:42:43,502 - __main__ - INFO - Note: Using REST API for accurate line counts (this may take a while)
+2025-09-11 12:42:43,573 - __main__ - INFO - Processing repository: base-frontend
+2025-09-11 12:42:43,579 - __main__ - INFO - Processing repository: thermo_package
+2025-09-11 12:42:43,586 - __main__ - INFO - Processing repository: Tigris-FE
+2025-09-11 12:42:43,749 - __main__ - INFO - Processing repository: nile-frontend
+2025-09-11 12:42:43,791 - __main__ - INFO - Processing repository: Mississippi-Web
+2025-09-11 12:43:03,213 - __main__ - INFO - Processing repository: Automation-Mississippi
+2025-09-11 12:43:03,213 - __main__ - INFO - [1/118] Completed: Mississippi-Web
+2025-09-11 12:43:22,117 - __main__ - INFO - Processing repository: nile-backend
+2025-09-11 12:43:22,117 - __main__ - INFO - [2/118] Completed: Automation-Mississippi
+2025-09-11 12:43:30,426 - __main__ - INFO - Processing repository: new_stack_calc
+2025-09-11 12:43:30,426 - __main__ - INFO - [3/118] Completed: thermo_package
+2025-09-11 12:43:34,425 - __main__ - INFO - Processing repository: Tigris-BE
+2025-09-11 12:43:34,425 - __main__ - INFO - [4/118] Completed: new_stack_calc
+2025-09-11 12:43:48,139 - __main__ - INFO - Processing repository: base-backend
+2025-09-11 12:43:48,139 - __main__ - INFO - [5/118] Completed: nile-frontend
+2025-09-11 12:44:08,553 - __main__ - INFO - Processing repository: process-simulation-service
+2025-09-11 12:44:08,553 - __main__ - INFO - [6/118] Completed: nile-backend
+2025-09-11 12:44:31,496 - __main__ - INFO - Processing repository: Project-Bheeshma
+2025-09-11 12:44:31,496 - __main__ - INFO - [7/118] Completed: process-simulation-service
+2025-09-11 12:45:01,480 - __main__ - INFO - Processing repository: nile-calc-new
+2025-09-11 12:45:01,481 - __main__ - INFO - [8/118] Completed: Tigris-BE
+2025-09-11 12:45:05,551 - __main__ - INFO - Processing repository: pdf-exploration
+2025-09-11 12:45:05,551 - __main__ - INFO - [9/118] Completed: nile-calc-new
+2025-09-11 12:45:11,614 - __main__ - INFO - Processing repository: caseStudyPdfGenerator
+2025-09-11 12:45:11,614 - __main__ - INFO - [10/118] Completed: pdf-exploration
+2025-09-11 12:45:26,657 - __main__ - INFO - Processing repository: Mississippi-calc
+2025-09-11 12:45:26,660 - __main__ - INFO - [11/118] Completed: Tigris-FE
+2025-09-11 12:45:29,546 - __main__ - INFO - Processing repository: demo-frontend
+2025-09-11 12:45:29,546 - __main__ - INFO - [12/118] Completed: caseStudyPdfGenerator
+2025-09-11 12:45:33,696 - __main__ - INFO - Processing repository: QA_Automation
+2025-09-11 12:45:33,697 - __main__ - INFO - [13/118] Completed: Mississippi-calc
+2025-09-11 12:45:36,610 - __main__ - INFO - Processing repository: demo-backend
+2025-09-11 12:45:36,612 - __main__ - INFO - [14/118] Completed: QA_Automation
+2025-09-11 12:45:56,975 - __main__ - INFO - Processing repository: ml_service_calc_demo
+2025-09-11 12:45:56,977 - __main__ - INFO - [15/118] Completed: demo-backend
+2025-09-11 12:46:01,180 - __main__ - INFO - Processing repository: work_location_analyser
+2025-09-11 12:46:01,182 - __main__ - INFO - [16/118] Completed: ml_service_calc_demo
+2025-09-11 12:46:04,520 - __main__ - INFO - Processing repository: Nile-calc
+2025-09-11 12:46:04,523 - __main__ - INFO - [17/118] Completed: work_location_analyser
+2025-09-11 12:46:07,372 - __main__ - INFO - Processing repository: nile-calc-encrypt
+2025-09-11 12:46:07,372 - __main__ - INFO - [18/118] Completed: Nile-calc
+2025-09-11 12:46:09,046 - __main__ - INFO - Processing repository: apollo-ml
+2025-09-11 12:46:09,046 - __main__ - INFO - [19/118] Completed: nile-calc-encrypt
+2025-09-11 12:46:10,578 - __main__ - INFO - Processing repository: git-kt
+2025-09-11 12:46:10,583 - __main__ - INFO - [20/118] Completed: apollo-ml
+2025-09-11 12:46:31,692 - __main__ - INFO - Processing repository: Indus-web
+2025-09-11 12:46:31,693 - __main__ - INFO - [21/118] Completed: git-kt
+2025-09-11 12:46:32,411 - __main__ - INFO - Processing repository: patents_utilities
+2025-09-11 12:46:32,411 - __main__ - INFO - [22/118] Completed: demo-frontend
+2025-09-11 12:46:33,427 - __main__ - INFO - Processing repository: nile-php-encrypt
+2025-09-11 12:46:33,428 - __main__ - INFO - [23/118] Completed: Indus-web
+2025-09-11 12:46:34,261 - __main__ - INFO - Processing repository: doc_converter_endpoint
+2025-09-11 12:46:34,262 - __main__ - INFO - [24/118] Completed: patents_utilities
+2025-09-11 12:46:35,262 - __main__ - INFO - Processing repository: congo-calc
+2025-09-11 12:46:35,278 - __main__ - INFO - [25/118] Completed: nile-php-encrypt
+2025-09-11 12:46:35,943 - __main__ - INFO - Processing repository: congo-web
+2025-09-11 12:46:35,943 - __main__ - INFO - [26/118] Completed: doc_converter_endpoint
+2025-09-11 12:46:38,535 - __main__ - INFO - Processing repository: Nile-web
+2025-09-11 12:46:38,537 - __main__ - INFO - [27/118] Completed: congo-calc
+2025-09-11 12:46:41,525 - __main__ - INFO - Processing repository: PixtralFT
+2025-09-11 12:46:41,525 - __main__ - INFO - [28/118] Completed: congo-web
+2025-09-11 12:46:42,972 - __main__ - INFO - Processing repository: Mekong-web
+2025-09-11 12:46:42,973 - __main__ - INFO - [29/118] Completed: PixtralFT
+2025-09-11 12:46:44,485 - __main__ - INFO - Processing repository: LCA
+2025-09-11 12:46:44,485 - __main__ - INFO - [30/118] Completed: Mekong-web
+2025-09-11 12:46:45,924 - __main__ - INFO - Processing repository: desserto-web
+2025-09-11 12:46:45,924 - __main__ - INFO - [31/118] Completed: LCA
+2025-09-11 12:46:47,648 - __main__ - INFO - Processing repository: dependency-check
+2025-09-11 12:46:47,649 - __main__ - INFO - [32/118] Completed: desserto-web
+2025-09-11 12:46:50,926 - __main__ - INFO - Processing repository: SimrekaChat
+2025-09-11 12:46:50,931 - __main__ - INFO - [33/118] Completed: dependency-check
+2025-09-11 12:46:51,144 - __main__ - INFO - Processing repository: idaes-pse
+2025-09-11 12:46:51,146 - __main__ - INFO - [34/118] Completed: Nile-web
+2025-09-11 12:46:52,768 - __main__ - INFO - Processing repository: idaes-ui
+2025-09-11 12:46:52,768 - __main__ - INFO - [35/118] Completed: SimrekaChat
+2025-09-11 12:46:53,461 - __main__ - INFO - Processing repository: demotest
+2025-09-11 12:46:53,461 - __main__ - INFO - [36/118] Completed: idaes-pse
+2025-09-11 12:46:54,475 - __main__ - INFO - Processing repository: Mekong-calc
+2025-09-11 12:46:54,476 - __main__ - INFO - [37/118] Completed: idaes-ui
+2025-09-11 12:46:55,324 - __main__ - INFO - Processing repository: reckitt-ml
+2025-09-11 12:46:55,326 - __main__ - INFO - [38/118] Completed: demotest
+2025-09-11 12:46:56,245 - __main__ - INFO - Processing repository: demo-calc
+2025-09-11 12:46:56,245 - __main__ - INFO - [39/118] Completed: Mekong-calc
+2025-09-11 12:46:56,846 - __main__ - INFO - Processing repository: pdf-report
+2025-09-11 12:46:56,848 - __main__ - INFO - [40/118] Completed: reckitt-ml
+2025-09-11 12:46:58,493 - __main__ - INFO - Processing repository: Volga-web
+2025-09-11 12:46:58,495 - __main__ - INFO - [41/118] Completed: pdf-report
+2025-09-11 12:46:59,562 - __main__ - INFO - Processing repository: h2pro-ml
+2025-09-11 12:46:59,562 - __main__ - INFO - [42/118] Completed: demo-calc
+2025-09-11 12:47:00,418 - __main__ - INFO - Processing repository: Tigris-FE_old
+2025-09-11 12:47:00,418 - __main__ - INFO - [43/118] Completed: Volga-web
+2025-09-11 12:47:00,974 - __main__ - INFO - Processing repository: extractPC
+2025-09-11 12:47:00,975 - __main__ - INFO - [44/118] Completed: h2pro-ml
+2025-09-11 12:47:02,488 - __main__ - INFO - Processing repository: demo-web
+2025-09-11 12:47:02,489 - __main__ - INFO - [45/118] Completed: extractPC
+2025-09-11 12:47:05,895 - __main__ - INFO - Processing repository: Simreka-GenAI
+2025-09-11 12:47:05,895 - __main__ - INFO - [46/118] Completed: demo-web
+2025-09-11 12:47:06,661 - __main__ - INFO - Processing repository: Tigris-BE_old
+2025-09-11 12:47:06,663 - __main__ - INFO - [47/118] Completed: Tigris-FE_old
+2025-09-11 12:47:07,696 - __main__ - INFO - Processing repository: demo-2-web
+2025-09-11 12:47:07,698 - __main__ - INFO - [48/118] Completed: Simreka-GenAI
+2025-09-11 12:47:09,533 - __main__ - INFO - Processing repository: demo2-calc
+2025-09-11 12:47:09,533 - __main__ - INFO - [49/118] Completed: demo-2-web
+2025-09-11 12:47:11,710 - __main__ - INFO - Processing repository: Chat_Pdf
+2025-09-11 12:47:11,716 - __main__ - INFO - [50/118] Completed: demo2-calc
+2025-09-11 12:47:12,744 - __main__ - INFO - Processing repository: models_api
+2025-09-11 12:47:12,744 - __main__ - INFO - [51/118] Completed: Tigris-BE_old
+2025-09-11 12:47:13,345 - __main__ - INFO - Processing repository: 1002-automation
+2025-09-11 12:47:13,345 - __main__ - INFO - [52/118] Completed: Chat_Pdf
+2025-09-11 12:47:14,401 - __main__ - INFO - Processing repository: Esterification
+2025-09-11 12:47:14,407 - __main__ - INFO - [53/118] Completed: models_api
+2025-09-11 12:47:15,370 - __main__ - INFO - Processing repository: console-calc
+2025-09-11 12:47:15,370 - __main__ - INFO - [54/118] Completed: 1002-automation
+2025-09-11 12:47:16,030 - __main__ - INFO - Processing repository: databank-frontend
+2025-09-11 12:47:16,036 - __main__ - INFO - [55/118] Completed: Esterification
+2025-09-11 12:47:19,087 - __main__ - INFO - Processing repository: desserto-calc
+2025-09-11 12:47:19,087 - __main__ - INFO - [56/118] Completed: databank-frontend
+2025-09-11 12:47:20,143 - __main__ - INFO - Processing repository: probation_tasks_BE
+2025-09-11 12:47:20,143 - __main__ - INFO - [57/118] Completed: console-calc
+2025-09-11 12:47:20,911 - __main__ - INFO - Processing repository: probation_tasks_FE
+2025-09-11 12:47:20,913 - __main__ - INFO - [58/118] Completed: desserto-calc
+2025-09-11 12:47:21,614 - __main__ - INFO - Processing repository: SimrekaSDSparser
+2025-09-11 12:47:21,617 - __main__ - INFO - [59/118] Completed: probation_tasks_BE
+2025-09-11 12:47:24,790 - __main__ - INFO - Processing repository: newTemplate
+2025-09-11 12:47:24,790 - __main__ - INFO - [60/118] Completed: probation_tasks_FE
+2025-09-11 12:47:26,557 - __main__ - INFO - Processing repository: garuda-automation
+2025-09-11 12:47:26,557 - __main__ - INFO - [61/118] Completed: SimrekaSDSparser
+2025-09-11 12:47:31,162 - __main__ - INFO - Processing repository: console-web
+2025-09-11 12:47:31,168 - __main__ - INFO - [62/118] Completed: newTemplate
+2025-09-11 12:47:40,672 - __main__ - INFO - Processing repository: Volga-calc
+2025-09-11 12:47:40,672 - __main__ - INFO - [63/118] Completed: garuda-automation
+2025-09-11 12:47:45,089 - __main__ - INFO - Processing repository: Indus-calc
+2025-09-11 12:47:45,102 - __main__ - INFO - [64/118] Completed: Volga-calc
+2025-09-11 12:47:53,065 - __main__ - INFO - Processing repository: data-migration
+2025-09-11 12:47:53,065 - __main__ - INFO - [65/118] Completed: Indus-calc
+2025-09-11 12:47:55,943 - __main__ - INFO - Processing repository: simreka-docs
+2025-09-11 12:47:55,943 - __main__ - INFO - [66/118] Completed: data-migration
+2025-09-11 12:47:56,024 - __main__ - INFO - Processing repository: automation-scripts
+2025-09-11 12:47:56,024 - __main__ - INFO - [67/118] Completed: console-web
+2025-09-11 12:48:02,804 - __main__ - INFO - Processing repository: stahl-ml
+2025-09-11 12:48:02,805 - __main__ - INFO - [68/118] Completed: simreka-docs
+2025-09-11 12:48:03,932 - __main__ - INFO - Processing repository: on-premises
+2025-09-11 12:48:03,932 - __main__ - INFO - [69/118] Completed: automation-scripts
+2025-09-11 12:48:05,457 - __main__ - INFO - Processing repository: testrepo
+2025-09-11 12:48:05,459 - __main__ - INFO - [70/118] Completed: stahl-ml
+2025-09-11 12:48:07,520 - __main__ - WARNING - Attempt 1 failed: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30). Retrying in 1s...
+2025-09-11 12:48:08,027 - __main__ - INFO - Processing repository: test-web
+2025-09-11 12:48:08,029 - __main__ - INFO - [71/118] Completed: testrepo
+2025-09-11 12:48:14,387 - __main__ - WARNING - REST API failed for on-premises: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-11 12:48:16,422 - __main__ - INFO - Processing repository: garuda-encryption
+2025-09-11 12:48:16,422 - __main__ - INFO - [72/118] Completed: on-premises
+2025-09-11 12:48:21,562 - __main__ - INFO - Processing repository: probation
+2025-09-11 12:48:21,562 - __main__ - INFO - [73/118] Completed: garuda-encryption
+2025-09-11 12:48:23,287 - __main__ - INFO - Processing repository: investor-connect
+2025-09-11 12:48:23,287 - __main__ - INFO - [74/118] Completed: base-backend
+2025-09-11 12:48:25,740 - __main__ - INFO - Processing repository: lead-generation
+2025-09-11 12:48:25,740 - __main__ - INFO - [75/118] Completed: probation
+2025-09-11 12:48:28,506 - __main__ - WARNING - REST API failed for test-web: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-11 12:48:30,053 - __main__ - INFO - Processing repository: lead-generation-backend
+2025-09-11 12:48:30,053 - __main__ - INFO - [76/118] Completed: test-web
+2025-09-11 12:48:31,569 - __main__ - WARNING - REST API failed for Project-Bheeshma: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out.
+2025-09-11 12:48:31,873 - __main__ - INFO - Processing repository: test-calc
+2025-09-11 12:48:31,874 - __main__ - INFO - [77/118] Completed: investor-connect
+2025-09-11 12:48:35,558 - __main__ - INFO - Processing repository: oerlikon-calc
+2025-09-11 12:48:35,558 - __main__ - INFO - [78/118] Completed: test-calc
+2025-09-11 12:48:38,764 - __main__ - WARNING - Attempt 1 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). Retrying in 1s...
+2025-09-11 12:48:43,326 - __main__ - INFO - Processing repository: accenture-calc
+2025-09-11 12:48:43,326 - __main__ - INFO - [79/118] Completed: oerlikon-calc
+2025-09-11 12:48:44,144 - __main__ - INFO - Processing repository: data-mapping
+2025-09-11 12:48:44,145 - __main__ - INFO - [80/118] Completed: Project-Bheeshma
+2025-09-11 12:48:46,105 - __main__ - INFO - Processing repository: frontend-learning
+2025-09-11 12:48:46,105 - __main__ - INFO - [81/118] Completed: data-mapping
+2025-09-11 12:48:48,064 - __main__ - INFO - Processing repository: template-web
+2025-09-11 12:48:48,064 - __main__ - INFO - [82/118] Completed: frontend-learning
+2025-09-11 12:48:53,797 - __main__ - INFO - Processing repository: nike-calc
+2025-09-11 12:48:53,799 - __main__ - INFO - [83/118] Completed: lead-generation
+2025-09-11 12:48:58,242 - __main__ - INFO - Processing repository: unit-conversion
+2025-09-11 12:48:58,242 - __main__ - INFO - [84/118] Completed: template-web
+2025-09-11 12:49:01,421 - __main__ - WARNING - REST API failed for lead-generation-backend: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+2025-09-11 12:49:03,396 - __main__ - INFO - Processing repository: montecarlo_general
+2025-09-11 12:49:03,399 - __main__ - INFO - [85/118] Completed: lead-generation-backend
+2025-09-11 12:49:10,985 - __main__ - INFO - Processing repository: garuda-hive
+2025-09-11 12:49:10,985 - __main__ - INFO - [86/118] Completed: unit-conversion
+2025-09-11 12:49:13,559 - __main__ - INFO - Processing repository: demo-ml
+2025-09-11 12:49:13,559 - __main__ - INFO - [87/118] Completed: garuda-hive
+2025-09-11 12:49:14,876 - __main__ - WARNING - Attempt 1 failed: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30). Retrying in 1s...
+2025-09-11 12:49:15,394 - __main__ - WARNING - REST API failed for montecarlo_general: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-11 12:49:17,323 - __main__ - INFO - Processing repository: process-simulation-calc
+2025-09-11 12:49:17,323 - __main__ - INFO - [88/118] Completed: accenture-calc
+2025-09-11 12:49:23,366 - __main__ - INFO - Processing repository: dependency_list
+2025-09-11 12:49:23,367 - __main__ - INFO - [89/118] Completed: demo-ml
+2025-09-11 12:49:25,310 - __main__ - INFO - Processing repository: oerlikon-web
+2025-09-11 12:49:25,310 - __main__ - INFO - [90/118] Completed: nike-calc
+2025-09-11 12:49:25,575 - __main__ - WARNING - Attempt 1 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). Retrying in 1s...
+2025-09-11 12:49:26,463 - __main__ - INFO - Processing repository: eaton-web
+2025-09-11 12:49:26,465 - __main__ - INFO - [91/118] Completed: dependency_list
+2025-09-11 12:49:30,251 - __main__ - INFO - Processing repository: eaton-calc
+2025-09-11 12:49:30,251 - __main__ - INFO - [92/118] Completed: eaton-web
+2025-09-11 12:49:33,243 - __main__ - INFO - Processing repository: eaton-ml
+2025-09-11 12:49:33,243 - __main__ - INFO - [93/118] Completed: eaton-calc
+2025-09-11 12:49:33,732 - __main__ - INFO - Processing repository: stahl-calc
+2025-09-11 12:49:33,732 - __main__ - INFO - [94/118] Completed: montecarlo_general
+2025-09-11 12:49:37,471 - __main__ - WARNING - Attempt 1 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). Retrying in 1s...
+2025-09-11 12:49:37,536 - __main__ - INFO - Processing repository: stahl-web
+2025-09-11 12:49:37,538 - __main__ - INFO - [95/118] Completed: eaton-ml
+2025-09-11 12:49:39,279 - __main__ - INFO - Processing repository: console-ml
+2025-09-11 12:49:39,282 - __main__ - INFO - [96/118] Completed: stahl-calc
+2025-09-11 12:49:42,541 - __main__ - INFO - Processing repository: garuda-ml
+2025-09-11 12:49:42,541 - __main__ - INFO - [97/118] Completed: process-simulation-calc
+2025-09-11 12:49:42,733 - __main__ - INFO - Processing repository: scrapit
+2025-09-11 12:49:42,733 - __main__ - INFO - [98/118] Completed: stahl-web
+2025-09-11 12:49:45,644 - __main__ - INFO - Processing repository: garuda-web
+2025-09-11 12:49:45,644 - __main__ - INFO - [99/118] Completed: console-ml
+2025-09-11 12:49:50,194 - __main__ - INFO - Processing repository: accenture-web
+2025-09-11 12:49:50,194 - __main__ - INFO - [100/118] Completed: garuda-web
+2025-09-11 12:49:52,853 - __main__ - INFO - Processing repository: nike-web
+2025-09-11 12:49:52,854 - __main__ - INFO - [101/118] Completed: garuda-ml
+2025-09-11 12:49:56,396 - __main__ - WARNING - REST API failed for oerlikon-web: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+2025-09-11 12:49:58,441 - __main__ - INFO - Processing repository: garuda-tolerance
+2025-09-11 12:49:58,441 - __main__ - INFO - [102/118] Completed: oerlikon-web
+2025-09-11 12:50:00,944 - __main__ - INFO - Processing repository: new-stack
+2025-09-11 12:50:00,944 - __main__ - INFO - [103/118] Completed: scrapit
+2025-09-11 12:50:01,280 - __main__ - INFO - Processing repository: model-automation
+2025-09-11 12:50:01,280 - __main__ - INFO - [104/118] Completed: nike-web
+2025-09-11 12:50:07,908 - __main__ - INFO - Processing repository: mcam-ml
+2025-09-11 12:50:07,908 - __main__ - INFO - [105/118] Completed: model-automation
+2025-09-11 12:50:09,772 - __main__ - WARNING - REST API failed for accenture-web: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-11 12:50:14,086 - __main__ - INFO - Processing repository: thermodynamic-product-properties
+2025-09-11 12:50:14,086 - __main__ - INFO - [106/118] Completed: accenture-web
+2025-09-11 12:50:22,753 - __main__ - INFO - Processing repository: arcus-ml
+2025-09-11 12:50:22,753 - __main__ - INFO - [107/118] Completed: mcam-ml
+2025-09-11 12:50:30,364 - __main__ - WARNING - Attempt 1 failed: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30). Retrying in 1s...
+2025-09-11 12:50:32,497 - __main__ - WARNING - Attempt 1 failed: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30). Retrying in 1s...
+2025-09-11 12:50:36,068 - __main__ - INFO - Processing repository: calc_server
+2025-09-11 12:50:36,068 - __main__ - INFO - [108/118] Completed: new-stack
+2025-09-11 12:50:44,160 - __main__ - WARNING - REST API failed for thermodynamic-product-properties: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+2025-09-11 12:50:49,193 - __main__ - WARNING - Attempt 2 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). Retrying in 2s...
+2025-09-11 12:50:52,862 - __main__ - WARNING - REST API failed for arcus-ml: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+2025-09-11 12:51:06,192 - __main__ - WARNING - REST API failed for calc_server: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+2025-09-11 12:51:07,927 - __main__ - INFO - Processing repository: demo-repository
+2025-09-11 12:51:07,927 - __main__ - INFO - [109/118] Completed: thermodynamic-product-properties
+2025-09-11 12:51:12,137 - __main__ - WARNING - Attempt 1 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). Retrying in 1s...
+2025-09-11 12:51:14,403 - __main__ - INFO - Processing repository: data-curation
+2025-09-11 12:51:14,403 - __main__ - INFO - [110/118] Completed: arcus-ml
+2025-09-11 12:51:22,316 - __main__ - ERROR - All 3 attempts failed
+2025-09-11 12:51:22,316 - __main__ - ERROR - Failed to fetch PRs for garuda-tolerance: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+2025-09-11 12:51:22,320 - __main__ - INFO - Processing repository: backend-learning
+2025-09-11 12:51:22,320 - __main__ - INFO - [111/118] Completed: garuda-tolerance
+2025-09-11 12:51:36,381 - __main__ - WARNING - Attempt 1 failed: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30). Retrying in 1s...
+2025-09-11 12:51:38,037 - __main__ - WARNING - REST API failed for demo-repository: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+2025-09-11 12:51:45,519 - __main__ - WARNING - REST API failed for data-curation: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+2025-09-11 12:51:47,455 - __main__ - INFO - Processing repository: oerlikon-ml
+2025-09-11 12:51:47,455 - __main__ - INFO - [112/118] Completed: calc_server
+2025-09-11 12:51:53,499 - __main__ - WARNING - REST API failed for backend-learning: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+2025-09-11 12:51:57,801 - __main__ - INFO - Processing repository: sustainability
+2025-09-11 12:51:57,802 - __main__ - INFO - [113/118] Completed: data-curation
+2025-09-11 12:52:08,132 - __main__ - WARNING - Attempt 1 failed: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30). Retrying in 1s...
+2025-09-11 12:52:13,161 - __main__ - INFO - [114/118] Completed: demo-repository
+2025-09-11 12:52:17,548 - __main__ - WARNING - REST API failed for oerlikon-ml: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30)
+2025-09-11 12:52:17,716 - __main__ - WARNING - REST API failed for sustainability: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-11 12:52:19,235 - __main__ - INFO - [115/118] Completed: oerlikon-ml
+2025-09-11 12:52:20,052 - __main__ - INFO - [116/118] Completed: sustainability
+2025-09-11 12:52:23,605 - __main__ - WARNING - Attempt 1 failed: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=30). Retrying in 1s...
+2025-09-11 12:52:27,068 - __main__ - INFO - [117/118] Completed: backend-learning
+2025-09-11 12:55:44,004 - __main__ - INFO - [118/118] Completed: base-frontend
+2025-09-11 12:55:44,008 - __main__ - INFO - ============================================================
+2025-09-11 12:55:44,014 - __main__ - INFO - Metrics collection complete!
+2025-09-17 10:22:33,994 - __main__ - INFO - Token validated. User: rks000-simreka
+2025-09-17 10:22:34,130 - __main__ - INFO - Initialized collector for org: simreka
+2025-09-17 10:22:34,130 - __main__ - INFO - Append mode: False
+2025-09-17 10:22:34,130 - __main__ - INFO - Include all users: True
+2025-09-17 10:22:34,130 - __main__ - INFO - Period: 2025-06-25 to 2025-09-17
+2025-09-17 10:22:34,132 - __main__ - INFO - Starting metrics collection from 2025-06-25 to 2025-09-17
+2025-09-17 10:22:34,132 - __main__ - INFO - ============================================================
+2025-09-17 10:22:34,838 - __main__ - INFO - Found 37 organization members
+2025-09-17 10:22:42,559 - __main__ - INFO - Found 119 repositories
+2025-09-17 10:22:42,559 - __main__ - INFO - Processing 119 repositories with 5 workers
+2025-09-17 10:22:42,561 - __main__ - INFO - Note: Using REST API for accurate line counts (this may take a while)
+2025-09-17 10:22:42,594 - __main__ - INFO - Processing repository: base-frontend
+2025-09-17 10:22:42,623 - __main__ - INFO - Processing repository: nile-frontend
+2025-09-17 10:22:42,665 - __main__ - INFO - Processing repository: new_stack_calc
+2025-09-17 10:22:42,738 - __main__ - INFO - Processing repository: Mississippi-Web
+2025-09-17 10:22:42,805 - __main__ - INFO - Processing repository: base-backend
+2025-09-17 10:22:44,971 - __main__ - INFO - Processing repository: formulation_generator
+2025-09-17 10:22:44,975 - __main__ - INFO - [1/119] Completed: new_stack_calc
+2025-09-17 10:22:53,909 - __main__ - INFO - Processing repository: demo-frontend
+2025-09-17 10:22:53,914 - __main__ - INFO - [2/119] Completed: Mississippi-Web
+2025-09-17 10:23:19,265 - __main__ - INFO - Processing repository: Tigris-BE
+2025-09-17 10:23:19,268 - __main__ - INFO - [3/119] Completed: formulation_generator
+2025-09-17 10:23:26,739 - __main__ - INFO - Processing repository: thermo_package
+2025-09-17 10:23:26,739 - __main__ - INFO - [4/119] Completed: nile-frontend
+2025-09-17 10:23:49,181 - __main__ - INFO - Processing repository: process-simulation-service
+2025-09-17 10:23:49,181 - __main__ - INFO - [5/119] Completed: demo-frontend
+2025-09-17 10:23:52,669 - __main__ - INFO - Processing repository: Project-Bheeshma
+2025-09-17 10:23:52,672 - __main__ - INFO - [6/119] Completed: thermo_package
+2025-09-17 10:23:59,215 - __main__ - INFO - Processing repository: Automation-Mississippi
+2025-09-17 10:23:59,215 - __main__ - INFO - [7/119] Completed: process-simulation-service
+2025-09-17 10:24:07,054 - __main__ - INFO - Processing repository: nile-backend
+2025-09-17 10:24:07,054 - __main__ - INFO - [8/119] Completed: Tigris-BE
+2025-09-17 10:24:08,418 - __main__ - INFO - Processing repository: demo-backend
+2025-09-17 10:24:08,418 - __main__ - INFO - [9/119] Completed: Automation-Mississippi
+2025-09-17 10:24:24,115 - __main__ - INFO - Processing repository: Tigris-FE
+2025-09-17 10:24:24,115 - __main__ - INFO - [10/119] Completed: demo-backend
+2025-09-17 10:24:47,734 - __main__ - INFO - Processing repository: nile-calc-new
+2025-09-17 10:24:47,734 - __main__ - INFO - [11/119] Completed: nile-backend
+2025-09-17 10:24:50,948 - __main__ - INFO - Processing repository: pdf-exploration
+2025-09-17 10:24:50,950 - __main__ - INFO - [12/119] Completed: nile-calc-new
+2025-09-17 10:24:54,320 - __main__ - INFO - Processing repository: caseStudyPdfGenerator
+2025-09-17 10:24:54,321 - __main__ - INFO - [13/119] Completed: pdf-exploration
+2025-09-17 10:25:04,171 - __main__ - INFO - Processing repository: Mississippi-calc
+2025-09-17 10:25:04,178 - __main__ - INFO - [14/119] Completed: base-backend
+2025-09-17 10:25:07,281 - __main__ - INFO - Processing repository: QA_Automation
+2025-09-17 10:25:07,281 - __main__ - INFO - [15/119] Completed: caseStudyPdfGenerator
+2025-09-17 10:25:09,433 - __main__ - INFO - Processing repository: ml_service_calc_demo
+2025-09-17 10:25:09,459 - __main__ - INFO - [16/119] Completed: QA_Automation
+2025-09-17 10:25:10,028 - __main__ - INFO - Processing repository: work_location_analyser
+2025-09-17 10:25:10,028 - __main__ - INFO - [17/119] Completed: Mississippi-calc
+2025-09-17 10:25:12,192 - __main__ - INFO - Processing repository: Nile-calc
+2025-09-17 10:25:12,192 - __main__ - INFO - [18/119] Completed: work_location_analyser
+2025-09-17 10:25:12,344 - __main__ - INFO - Processing repository: nile-calc-encrypt
+2025-09-17 10:25:12,344 - __main__ - INFO - [19/119] Completed: ml_service_calc_demo
+2025-09-17 10:25:13,561 - __main__ - INFO - Processing repository: apollo-ml
+2025-09-17 10:25:13,569 - __main__ - INFO - [20/119] Completed: nile-calc-encrypt
+2025-09-17 10:25:14,411 - __main__ - INFO - Processing repository: git-kt
+2025-09-17 10:25:14,411 - __main__ - INFO - [21/119] Completed: Nile-calc
+2025-09-17 10:25:14,668 - __main__ - INFO - Processing repository: Indus-web
+2025-09-17 10:25:14,668 - __main__ - INFO - [22/119] Completed: apollo-ml
+2025-09-17 10:25:15,943 - __main__ - INFO - Processing repository: patents_utilities
+2025-09-17 10:25:15,943 - __main__ - INFO - [23/119] Completed: Indus-web
+2025-09-17 10:25:17,001 - __main__ - INFO - Processing repository: nile-php-encrypt
+2025-09-17 10:25:17,001 - __main__ - INFO - [24/119] Completed: patents_utilities
+2025-09-17 10:25:18,296 - __main__ - INFO - Processing repository: doc_converter_endpoint
+2025-09-17 10:25:18,296 - __main__ - INFO - [25/119] Completed: nile-php-encrypt
+2025-09-17 10:25:19,357 - __main__ - INFO - Processing repository: congo-calc
+2025-09-17 10:25:19,357 - __main__ - INFO - [26/119] Completed: doc_converter_endpoint
+2025-09-17 10:25:21,811 - __main__ - INFO - Processing repository: congo-web
+2025-09-17 10:25:21,811 - __main__ - INFO - [27/119] Completed: congo-calc
+2025-09-17 10:25:26,823 - __main__ - INFO - Processing repository: Nile-web
+2025-09-17 10:25:26,823 - __main__ - INFO - [28/119] Completed: congo-web
+2025-09-17 10:25:27,852 - __main__ - INFO - Processing repository: PixtralFT
+2025-09-17 10:25:27,854 - __main__ - INFO - [29/119] Completed: git-kt
+2025-09-17 10:25:28,944 - __main__ - INFO - Processing repository: Mekong-web
+2025-09-17 10:25:28,944 - __main__ - INFO - [30/119] Completed: PixtralFT
+2025-09-17 10:25:30,200 - __main__ - INFO - Processing repository: LCA
+2025-09-17 10:25:30,200 - __main__ - INFO - [31/119] Completed: Mekong-web
+2025-09-17 10:25:31,201 - __main__ - INFO - Processing repository: desserto-web
+2025-09-17 10:25:31,201 - __main__ - INFO - [32/119] Completed: LCA
+2025-09-17 10:25:32,524 - __main__ - INFO - Processing repository: dependency-check
+2025-09-17 10:25:32,524 - __main__ - INFO - [33/119] Completed: desserto-web
+2025-09-17 10:25:33,497 - __main__ - INFO - Processing repository: SimrekaChat
+2025-09-17 10:25:33,497 - __main__ - INFO - [34/119] Completed: dependency-check
+2025-09-17 10:25:34,695 - __main__ - INFO - Processing repository: idaes-pse
+2025-09-17 10:25:34,695 - __main__ - INFO - [35/119] Completed: SimrekaChat
+2025-09-17 10:25:35,888 - __main__ - INFO - Processing repository: idaes-ui
+2025-09-17 10:25:35,888 - __main__ - INFO - [36/119] Completed: idaes-pse
+2025-09-17 10:25:36,498 - __main__ - INFO - Processing repository: demotest
+2025-09-17 10:25:36,498 - __main__ - INFO - [37/119] Completed: Nile-web
+2025-09-17 10:25:36,975 - __main__ - INFO - Processing repository: Mekong-calc
+2025-09-17 10:25:36,975 - __main__ - INFO - [38/119] Completed: idaes-ui
+2025-09-17 10:25:37,552 - __main__ - INFO - Processing repository: reckitt-ml
+2025-09-17 10:25:37,552 - __main__ - INFO - [39/119] Completed: demotest
+2025-09-17 10:25:38,317 - __main__ - INFO - Processing repository: demo-calc
+2025-09-17 10:25:38,317 - __main__ - INFO - [40/119] Completed: Mekong-calc
+2025-09-17 10:25:38,702 - __main__ - INFO - Processing repository: pdf-report
+2025-09-17 10:25:38,702 - __main__ - INFO - [41/119] Completed: reckitt-ml
+2025-09-17 10:25:39,871 - __main__ - INFO - Processing repository: Volga-web
+2025-09-17 10:25:39,871 - __main__ - INFO - [42/119] Completed: pdf-report
+2025-09-17 10:25:40,728 - __main__ - INFO - Processing repository: h2pro-ml
+2025-09-17 10:25:40,728 - __main__ - INFO - [43/119] Completed: demo-calc
+2025-09-17 10:25:41,185 - __main__ - INFO - Processing repository: Tigris-FE_old
+2025-09-17 10:25:41,185 - __main__ - INFO - [44/119] Completed: Volga-web
+2025-09-17 10:25:41,795 - __main__ - INFO - Processing repository: extractPC
+2025-09-17 10:25:41,795 - __main__ - INFO - [45/119] Completed: h2pro-ml
+2025-09-17 10:25:42,851 - __main__ - INFO - Processing repository: demo-web
+2025-09-17 10:25:42,851 - __main__ - INFO - [46/119] Completed: extractPC
+2025-09-17 10:25:45,238 - __main__ - INFO - Processing repository: Simreka-GenAI
+2025-09-17 10:25:45,238 - __main__ - INFO - [47/119] Completed: demo-web
+2025-09-17 10:25:45,935 - __main__ - INFO - Processing repository: Tigris-BE_old
+2025-09-17 10:25:45,935 - __main__ - INFO - [48/119] Completed: Tigris-FE_old
+2025-09-17 10:25:46,481 - __main__ - INFO - Processing repository: demo-2-web
+2025-09-17 10:25:46,483 - __main__ - INFO - [49/119] Completed: Simreka-GenAI
+2025-09-17 10:25:47,816 - __main__ - INFO - Processing repository: demo2-calc
+2025-09-17 10:25:47,816 - __main__ - INFO - [50/119] Completed: demo-2-web
+2025-09-17 10:25:49,069 - __main__ - INFO - Processing repository: Chat_Pdf
+2025-09-17 10:25:49,069 - __main__ - INFO - [51/119] Completed: demo2-calc
+2025-09-17 10:25:50,098 - __main__ - INFO - Processing repository: models_api
+2025-09-17 10:25:50,098 - __main__ - INFO - [52/119] Completed: Chat_Pdf
+2025-09-17 10:25:50,357 - __main__ - INFO - Processing repository: 1002-automation
+2025-09-17 10:25:50,362 - __main__ - INFO - [53/119] Completed: Tigris-BE_old
+2025-09-17 10:25:51,186 - __main__ - INFO - Processing repository: Esterification
+2025-09-17 10:25:51,188 - __main__ - INFO - Processing repository: console-calc
+2025-09-17 10:25:51,188 - __main__ - INFO - [54/119] Completed: Tigris-FE
+2025-09-17 10:25:51,194 - __main__ - INFO - [55/119] Completed: models_api
+2025-09-17 10:25:51,679 - __main__ - INFO - Processing repository: databank-frontend
+2025-09-17 10:25:51,679 - __main__ - INFO - [56/119] Completed: 1002-automation
+2025-09-17 10:25:52,762 - __main__ - INFO - Processing repository: desserto-calc
+2025-09-17 10:25:52,762 - __main__ - INFO - [57/119] Completed: Esterification
+2025-09-17 10:25:53,907 - __main__ - INFO - Processing repository: probation_tasks_BE
+2025-09-17 10:25:53,907 - __main__ - INFO - [58/119] Completed: databank-frontend
+2025-09-17 10:25:53,984 - __main__ - INFO - Processing repository: probation_tasks_FE
+2025-09-17 10:25:53,984 - __main__ - INFO - [59/119] Completed: desserto-calc
+2025-09-17 10:25:54,334 - __main__ - INFO - Processing repository: SimrekaSDSparser
+2025-09-17 10:25:54,334 - __main__ - INFO - [60/119] Completed: console-calc
+2025-09-17 10:25:54,934 - __main__ - INFO - Processing repository: newTemplate
+2025-09-17 10:25:54,934 - __main__ - INFO - [61/119] Completed: probation_tasks_BE
+2025-09-17 10:25:54,987 - __main__ - INFO - Processing repository: garuda-automation
+2025-09-17 10:25:54,987 - __main__ - INFO - [62/119] Completed: probation_tasks_FE
+2025-09-17 10:25:55,450 - __main__ - INFO - Processing repository: console-web
+2025-09-17 10:25:55,450 - __main__ - INFO - [63/119] Completed: SimrekaSDSparser
+2025-09-17 10:25:55,943 - __main__ - INFO - Processing repository: Volga-calc
+2025-09-17 10:25:55,949 - __main__ - INFO - [64/119] Completed: newTemplate
+2025-09-17 10:25:57,173 - __main__ - INFO - Processing repository: Indus-calc
+2025-09-17 10:25:57,175 - __main__ - INFO - [65/119] Completed: Volga-calc
+2025-09-17 10:25:57,263 - __main__ - INFO - Processing repository: data-migration
+2025-09-17 10:25:57,263 - __main__ - INFO - [66/119] Completed: garuda-automation
+2025-09-17 10:25:58,364 - __main__ - INFO - Processing repository: simreka-docs
+2025-09-17 10:25:58,364 - __main__ - INFO - [67/119] Completed: data-migration
+2025-09-17 10:25:58,401 - __main__ - INFO - Processing repository: automation-scripts
+2025-09-17 10:25:58,401 - __main__ - INFO - [68/119] Completed: Indus-calc
+2025-09-17 10:25:59,467 - __main__ - INFO - Processing repository: stahl-ml
+2025-09-17 10:25:59,467 - __main__ - INFO - [69/119] Completed: simreka-docs
+2025-09-17 10:25:59,806 - __main__ - INFO - Processing repository: on-premises
+2025-09-17 10:25:59,806 - __main__ - INFO - [70/119] Completed: automation-scripts
+2025-09-17 10:26:00,574 - __main__ - INFO - Processing repository: testrepo
+2025-09-17 10:26:00,574 - __main__ - INFO - [71/119] Completed: stahl-ml
+2025-09-17 10:26:00,997 - __main__ - INFO - Processing repository: test-web
+2025-09-17 10:26:00,997 - __main__ - INFO - [72/119] Completed: on-premises
+2025-09-17 10:26:01,614 - __main__ - INFO - Processing repository: garuda-encryption
+2025-09-17 10:26:01,614 - __main__ - INFO - [73/119] Completed: testrepo
+2025-09-17 10:26:02,181 - __main__ - INFO - Processing repository: probation
+2025-09-17 10:26:02,181 - __main__ - INFO - [74/119] Completed: test-web
+2025-09-17 10:26:02,883 - __main__ - INFO - Processing repository: investor-connect
+2025-09-17 10:26:02,883 - __main__ - INFO - [75/119] Completed: garuda-encryption
+2025-09-17 10:26:03,284 - __main__ - INFO - Processing repository: lead-generation
+2025-09-17 10:26:03,284 - __main__ - INFO - [76/119] Completed: probation
+2025-09-17 10:26:03,657 - __main__ - INFO - Processing repository: lead-generation-backend
+2025-09-17 10:26:03,657 - __main__ - INFO - [77/119] Completed: console-web
+2025-09-17 10:26:04,154 - __main__ - INFO - Processing repository: test-calc
+2025-09-17 10:26:04,154 - __main__ - INFO - [78/119] Completed: investor-connect
+2025-09-17 10:26:04,629 - __main__ - INFO - Processing repository: oerlikon-calc
+2025-09-17 10:26:04,634 - __main__ - INFO - [79/119] Completed: lead-generation
+2025-09-17 10:26:04,849 - __main__ - INFO - Processing repository: accenture-calc
+2025-09-17 10:26:04,849 - __main__ - INFO - [80/119] Completed: lead-generation-backend
+2025-09-17 10:26:05,227 - __main__ - INFO - Processing repository: data-mapping
+2025-09-17 10:26:05,227 - __main__ - INFO - [81/119] Completed: test-calc
+2025-09-17 10:26:05,696 - __main__ - INFO - Processing repository: frontend-learning
+2025-09-17 10:26:05,696 - __main__ - INFO - [82/119] Completed: oerlikon-calc
+2025-09-17 10:26:05,894 - __main__ - INFO - Processing repository: template-web
+2025-09-17 10:26:05,894 - __main__ - INFO - [83/119] Completed: accenture-calc
+2025-09-17 10:26:06,465 - __main__ - INFO - Processing repository: nike-calc
+2025-09-17 10:26:06,465 - __main__ - INFO - [84/119] Completed: data-mapping
+2025-09-17 10:26:06,917 - __main__ - INFO - Processing repository: unit-conversion
+2025-09-17 10:26:06,917 - __main__ - INFO - [85/119] Completed: template-web
+2025-09-17 10:26:06,928 - __main__ - INFO - Processing repository: montecarlo_general
+2025-09-17 10:26:06,928 - __main__ - INFO - [86/119] Completed: frontend-learning
+2025-09-17 10:26:07,513 - __main__ - INFO - Processing repository: garuda-hive
+2025-09-17 10:26:07,513 - __main__ - INFO - [87/119] Completed: nike-calc
+2025-09-17 10:26:07,918 - __main__ - INFO - Processing repository: demo-ml
+2025-09-17 10:26:07,918 - __main__ - INFO - [88/119] Completed: montecarlo_general
+2025-09-17 10:26:07,968 - __main__ - INFO - Processing repository: process-simulation-calc
+2025-09-17 10:26:07,968 - __main__ - INFO - [89/119] Completed: unit-conversion
+2025-09-17 10:26:08,533 - __main__ - INFO - Processing repository: dependency_list
+2025-09-17 10:26:08,533 - __main__ - INFO - [90/119] Completed: garuda-hive
+2025-09-17 10:26:09,040 - __main__ - INFO - Processing repository: oerlikon-web
+2025-09-17 10:26:09,040 - __main__ - INFO - [91/119] Completed: process-simulation-calc
+2025-09-17 10:26:09,049 - __main__ - INFO - Processing repository: eaton-web
+2025-09-17 10:26:09,049 - __main__ - INFO - [92/119] Completed: demo-ml
+2025-09-17 10:26:09,613 - __main__ - INFO - Processing repository: eaton-calc
+2025-09-17 10:26:09,614 - __main__ - INFO - [93/119] Completed: dependency_list
+2025-09-17 10:26:10,061 - __main__ - INFO - Processing repository: eaton-ml
+2025-09-17 10:26:10,061 - __main__ - INFO - [94/119] Completed: eaton-web
+2025-09-17 10:26:10,079 - __main__ - INFO - Processing repository: stahl-calc
+2025-09-17 10:26:10,079 - __main__ - INFO - [95/119] Completed: oerlikon-web
+2025-09-17 10:26:10,693 - __main__ - INFO - Processing repository: stahl-web
+2025-09-17 10:26:10,693 - __main__ - INFO - [96/119] Completed: eaton-calc
+2025-09-17 10:26:11,143 - __main__ - INFO - Processing repository: console-ml
+2025-09-17 10:26:11,143 - __main__ - INFO - [97/119] Completed: eaton-ml
+2025-09-17 10:26:11,170 - __main__ - INFO - Processing repository: garuda-ml
+2025-09-17 10:26:11,170 - __main__ - INFO - [98/119] Completed: stahl-calc
+2025-09-17 10:26:11,762 - __main__ - INFO - Processing repository: scrapit
+2025-09-17 10:26:11,764 - __main__ - INFO - [99/119] Completed: stahl-web
+2025-09-17 10:26:12,186 - __main__ - INFO - Processing repository: garuda-web
+2025-09-17 10:26:12,186 - __main__ - INFO - [100/119] Completed: console-ml
+2025-09-17 10:26:12,344 - __main__ - INFO - Processing repository: accenture-web
+2025-09-17 10:26:12,344 - __main__ - INFO - [101/119] Completed: garuda-ml
+2025-09-17 10:26:12,950 - __main__ - INFO - Processing repository: nike-web
+2025-09-17 10:26:12,950 - __main__ - INFO - [102/119] Completed: scrapit
+2025-09-17 10:26:13,218 - __main__ - INFO - Processing repository: garuda-tolerance
+2025-09-17 10:26:13,218 - __main__ - INFO - [103/119] Completed: garuda-web
+2025-09-17 10:26:13,442 - __main__ - INFO - Processing repository: new-stack
+2025-09-17 10:26:13,442 - __main__ - INFO - [104/119] Completed: accenture-web
+2025-09-17 10:26:14,011 - __main__ - INFO - Processing repository: model-automation
+2025-09-17 10:26:14,011 - __main__ - INFO - [105/119] Completed: nike-web
+2025-09-17 10:26:14,219 - __main__ - INFO - Processing repository: mcam-ml
+2025-09-17 10:26:14,219 - __main__ - INFO - [106/119] Completed: garuda-tolerance
+2025-09-17 10:26:14,458 - __main__ - INFO - Processing repository: thermodynamic-product-properties
+2025-09-17 10:26:14,458 - __main__ - INFO - [107/119] Completed: new-stack
+2025-09-17 10:26:15,066 - __main__ - INFO - Processing repository: arcus-ml
+2025-09-17 10:26:15,066 - __main__ - INFO - [108/119] Completed: model-automation
+2025-09-17 10:26:15,228 - __main__ - INFO - Processing repository: calc_server
+2025-09-17 10:26:15,228 - __main__ - INFO - [109/119] Completed: mcam-ml
+2025-09-17 10:26:15,496 - __main__ - INFO - Processing repository: demo-repository
+2025-09-17 10:26:15,496 - __main__ - INFO - [110/119] Completed: thermodynamic-product-properties
+2025-09-17 10:26:16,085 - __main__ - INFO - Processing repository: data-curation
+2025-09-17 10:26:16,085 - __main__ - INFO - [111/119] Completed: arcus-ml
+2025-09-17 10:26:16,317 - __main__ - INFO - Processing repository: backend-learning
+2025-09-17 10:26:16,317 - __main__ - INFO - [112/119] Completed: calc_server
+2025-09-17 10:26:16,501 - __main__ - INFO - Processing repository: oerlikon-ml
+2025-09-17 10:26:16,501 - __main__ - INFO - [113/119] Completed: demo-repository
+2025-09-17 10:26:17,166 - __main__ - INFO - Processing repository: sustainability
+2025-09-17 10:26:17,166 - __main__ - INFO - [114/119] Completed: data-curation
+2025-09-17 10:26:17,413 - __main__ - INFO - [115/119] Completed: backend-learning
+2025-09-17 10:26:17,679 - __main__ - INFO - [116/119] Completed: oerlikon-ml
+2025-09-17 10:26:18,248 - __main__ - INFO - [117/119] Completed: sustainability
+2025-09-17 10:26:30,793 - __main__ - INFO - [118/119] Completed: Project-Bheeshma
+2025-09-17 10:27:58,251 - __main__ - INFO - [119/119] Completed: base-frontend
+2025-09-17 10:27:58,262 - __main__ - INFO - ============================================================
+2025-09-17 10:27:58,262 - __main__ - INFO - Metrics collection complete!

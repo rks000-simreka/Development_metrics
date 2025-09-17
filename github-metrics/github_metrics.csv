@@ -1,0 +1,38 @@
+username,total_commits,avg_commits_per_week,lines_added,lines_deleted,net_lines,prs_created,prs_merged,avg_pr_turnaround_hours,review_comments,prs_reviewed,active_repos_count,active_repos
+j000-simreka,83,6.92,38215,3690,34525,0,0,0.00,0,0,10,"base-backend, base-frontend, caseStudyPdfGenerator, demo-backend, demo-frontend, ml_service_calc_demo, nile-backend, nile-frontend, pdf-exploration, process-simulation-service"
+rk000-simreka,20,1.67,1358,623,735,0,0,0.00,0,0,1,process-simulation-service
+mk000-simreka,0,0.00,0,0,0,0,0,0.00,0,0,0,
+alzyod,0,0.00,0,0,0,0,0,0.00,0,0,0,
+d000-simreka,0,0.00,0,0,0,0,0,0.00,0,0,0,
+a000-simrek,1,0.08,1069,0,1069,0,0,0.00,0,0,1,QA_Automation
+patelsimreka,0,0.00,0,0,0,0,0,0.00,0,0,0,
+rr000-simreka,0,0.00,0,0,0,0,0,0.00,0,0,0,
+vm000-simreka,0,0.00,0,0,0,0,0,0.00,0,0,0,
+pk000-simreka,32,2.67,11415,10131,1284,0,0,0.00,0,0,4,"base-backend, base-frontend, demo-backend, demo-frontend"
+kp000-simreka,205,17.08,261004,225967,35037,0,0,0.00,0,0,3,"Project-Bheeshma, Tigris-BE, caseStudyPdfGenerator"
+aj000-simreka,0,0.00,0,0,0,0,0,0.00,0,0,0,
+kg000-simreka,0,0.00,0,0,0,0,0,0.00,0,0,0,
+km000-simreka,185,15.42,4148432,286124,3862308,0,0,0.00,0,0,1,Tigris-FE
+pr000-simreka,79,6.58,85812,5170,80642,0,0,0.00,0,0,2,"Project-Bheeshma, Tigris-BE"
+rks000-simreka,1,0.08,3309,0,3309,0,0,0.00,0,0,1,work_location_analyser
+jl000-simreka,3,0.25,62869,60324,2545,0,0,0.00,0,0,1,Project-Bheeshma
+ak000-simreka,0,0.00,0,0,0,0,0,0.00,0,0,0,
+bala000-simreka,0,0.00,0,0,0,0,0,0.00,0,0,0,
+akash000-simreka,104,8.67,46066,32762,13304,0,0,0.00,0,0,2,"base-backend, base-frontend"
+pa000-simreka,410,34.17,472883,73272,399611,0,0,0.00,0,0,7,"base-backend, base-frontend, demo-backend, demo-frontend, git-kt, nile-backend, nile-frontend"
+sg000-simreka,73,6.08,84515,69893,14622,0,0,0.00,0,0,1,Project-Bheeshma
+am000-simreka,0,0.00,0,0,0,0,0,0.00,0,0,0,
+dk000-simreka,62,5.17,878,80,798,0,0,0.00,0,0,10,"Automation-Mississippi, Tigris-BE, Tigris-FE, base-backend, base-frontend, demo-frontend, new_stack_calc, nile-backend, nile-frontend, process-simulation-service"
+sjg000-simreka,125,10.42,46571,35920,10651,0,0,0.00,0,0,5,"base-backend, base-frontend, demo-backend, demo-frontend, nile-frontend"
+sp-000-sim,14,1.17,71474,65997,5477,0,0,0.00,0,0,1,Project-Bheeshma
+Mmadan-2025,0,0.00,0,0,0,0,0,0.00,0,0,0,
+yo-000-sim,42,3.50,37923,29193,8730,0,0,0.00,0,0,2,"base-backend, base-frontend"
+sen-000-sim,87,7.25,54625,44897,9728,0,0,0.00,0,0,2,"base-backend, base-frontend"
+dee-000-sim,85,7.08,35499,3200,32299,0,0,0.00,0,0,8,"base-backend, base-frontend, caseStudyPdfGenerator, demo-backend, demo-frontend, nile-backend, nile-frontend, pdf-exploration"
+Ad-000-sim,17,1.42,41066,15861,25205,0,0,0.00,0,0,2,"Automation-Mississippi, git-kt"
+Av-000-Sim,0,0.00,0,0,0,0,0,0.00,0,0,0,
+DS-000-sim,0,0.00,0,0,0,0,0,0.00,0,0,0,
+Vi-000-sim,0,0.00,0,0,0,0,0,0.00,0,0,0,
+nilesa-simreka,0,0.00,0,0,0,0,0,0.00,0,0,0,
+shiv-000-sim,17,1.42,949,160,789,0,0,0.00,0,0,2,"base-backend, base-frontend"
+AB-000-sim,0,0.00,0,0,0,0,0,0.00,0,0,0,
